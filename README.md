@@ -1,3 +1,21 @@
+# Dataset
+
+This repository contains the raw data and the scripts for the generation of the structured data. To create the dataset, clone the repository and run the following command:
+
+`python dataset_generation_script.py`
+
+# Updating Dataset
+
+To pull new hotness from the public repo:
+
+```
+git remote add public https://github.com/adobe-research/deft_corpus
+git pull public master
+git push origin master
+```
+
+Awesome, your private repo now has the latest code from the public repo plus your changes.
+
 # Welcome to the DEFT corpus!
 
 Welcome to the largest expertly annotated corpus for complex definition extraction in free text. Pardon our dust - this data is associated with [SemEval 2020 Task 6](https://competitions.codalab.org/competitions/20900) (DeftEval) and we are releasing the full dataset on the SemEval conference schedule. Train and dev data are available, and test data will become available after the completion of the SemEval evaluation period on 2 Feb 2020. You can source the complete text from the corresponding textbooks at <https://cnx.org>.
