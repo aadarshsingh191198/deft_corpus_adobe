@@ -4,6 +4,17 @@ This repository contains the raw data and the scripts for the generation of the 
 
 `python dataset_generation_script.py`
 
+# Updating Dataset
+
+To pull new hotness from the public repo:
+
+```
+git remote add public https://github.com/adobe-research/deft_corpus
+git pull public master
+git push origin master
+```
+
+Awesome, your private repo now has the latest code from the public repo plus your changes.
 
 # Welcome to the DEFT corpus!
 
