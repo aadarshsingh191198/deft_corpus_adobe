@@ -5,7 +5,7 @@ import re
 def generate_csv(dir, file):
     # subjects = ['history','pschology','history','sociology','physics','government','economics']
     csv_file = codecs.open(file, 'w+','utf-8')
-
+    csv_file.write(','.join(['Subject','Sentence','Label\n'])) 
     for filename in os.listdir(dir):
         with open(os.path.join(dir,filename),encoding='utf-8') as myfile:
             x= myfile.readlines()
