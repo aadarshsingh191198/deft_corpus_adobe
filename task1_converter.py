@@ -32,7 +32,7 @@ def write_converted(source_file, output_file):
     """
 
     sentences = pd.DataFrame(columns=['sentence', 'label'])
-    with open(source_file) as source_text:
+    with open(source_file, encoding='utf8') as source_text:
         has_def = 0
         new_sentence = ''
         for line in source_text.readlines():
