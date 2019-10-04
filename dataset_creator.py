@@ -18,7 +18,7 @@ def generate_csv(dir, file):
 
     csv_file.close()
 
-path = 'dataset\\'
+path = 'dataset'
 os.chdir(path)
 generate_csv('train_files','train.csv')
 generate_csv('dev_files','dev.csv')
