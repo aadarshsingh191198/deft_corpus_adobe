@@ -2,3 +2,5 @@
 .gitignore
 dataset
 dataset2
+.vscode/
+__pycache__/

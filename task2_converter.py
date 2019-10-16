@@ -31,7 +31,7 @@ def write_converted(source_file, output_file):
     Walks through the conll-type files and converts them to sentence classification format ([SENT]  [BIN_VAL]
     """
 
-    sentences = pd.DataFrame(columns=['sentence', 'tags'])
+    sentences = pd.DataFrame(columns=['sentence', 'tag'])
     with open(source_file, encoding='utf8') as source_text:
         has_def = 0
         new_sentence = ''
@@ -52,6 +52,6 @@ def write_converted(source_file, output_file):
             new_tag= new_tag + ' ' + line_parts[4]
             if line_parts[4][3:] == 'Definition':
                 has_def = 1
-    sentences.to_csv(output_file, header=False, index=False)
+    sentences.to_csv(output_file, header=False, index=False, quoting=csv.QUOTE_ALL, sep='\t')
 if __name__ == '__main__':
     convert(Path(sys.argv[1]), Path(sys.argv[2]))

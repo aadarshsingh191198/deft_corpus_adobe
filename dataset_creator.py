@@ -18,8 +18,10 @@ def generate_csv(dir, file):
 
     csv_file.close()
 
-path = 'dataset'
-os.chdir(path)
-generate_csv('train_files','train.csv')
-generate_csv('dev_files','dev.csv')
 
+if __name__ == '__main__':
+    path = 'dataset'
+    # os.chdir(path)
+    generate_csv(os.path.join(path, 'train_files'),os.path.join(path, 'train.csv'))
+    generate_csv(os.path.join(path, 'dev_files'),os.path.join(path, 'dev.csv'))
+    # os.chdir('..')
