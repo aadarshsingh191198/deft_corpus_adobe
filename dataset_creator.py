@@ -20,8 +20,9 @@ def generate_csv(dir, file):
 
 
 if __name__ == '__main__':
-    path = 'dataset'
+    path = 'dataset2'
+    task = 'task2_'
     # os.chdir(path)
-    generate_csv(os.path.join(path, 'train_files'),os.path.join(path, 'train.csv'))
-    generate_csv(os.path.join(path, 'dev_files'),os.path.join(path, 'dev.csv'))
+    generate_csv(os.path.join(path, 'train_files'),task+'train.csv')
+    generate_csv(os.path.join(path, 'dev_files'), task+ 'dev.csv')
     # os.chdir('..')
