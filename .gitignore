@@ -2,6 +2,7 @@
 .gitignore
 dataset
 dataset2
+dataset3
 .vscode/
 __pycache__/
 .idea
