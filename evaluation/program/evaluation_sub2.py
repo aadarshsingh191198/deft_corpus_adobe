@@ -37,7 +37,7 @@ def get_label(row):
     Returns:
         label: string
     """
-    return row[-1]
+    return row[-1].strip()
 
 
 def validate_length(gold_rows, pred_rows):
@@ -66,11 +66,24 @@ def validate_tokens(gold_rows, pred_rows):
         pred_rows: list of lists of strings
     """
     for row_index in range(len(pred_rows)):
-        gold_token = get_token(gold_rows[row_index])
-        pred_token = get_token(pred_rows[row_index])
-        if pred_token != gold_token:
+        gold_token = get_token(gold_rows[row_index]).split()
+        pred_token = get_token(pred_rows[row_index]).split()
+
+        if len(gold_token) != len(pred_token):
             raise ValueError("Token mismatch row {}: Pred {} Gold {}".format(row_index, pred_token, gold_token))
 
+
+def validate_ref_labels(eval_labels, y_gold):
+    for index, label in enumerate(y_gold):
+        if label not in eval_labels and label.strip() != 'O':
+            warnings.warn("Labels exist in the reference files that will not be scored given the current evaluation labels.")
+            y_gold[index] = 'O'
+    return y_gold
+
+def validate_res_labels(eval_labels, y_pred):
+    for label in y_pred:
+        if label not in eval_labels and label != 'O':
+            raise ValueError(f"Encountered unknown or unevaluated label: {label}")
 
 def validate_labels(gold_rows, pred_rows):
     """Check that pred file doesn't have any unknown labels
@@ -98,6 +111,7 @@ def validate_data(gold_rows, pred_rows):
     validate_length(gold_rows, pred_rows)
     validate_columns(gold_rows, pred_rows)
     validate_tokens(gold_rows, pred_rows)
+
     # validate_labels(gold_rows, pred_rows)
 
 
@@ -111,11 +125,11 @@ def get_gold_and_pred_labels(gold_fname, pred_fname):
         y_pred: list of labels (strings)
     """
     with gold_fname.open() as gold_source:
-        gold_reader = csv.reader(gold_source, delimiter="\t")
+        gold_reader = csv.reader(gold_source, dialect=csv.excel_tab, quoting=csv.QUOTE_NONE)
         gold_rows = [row for row in gold_reader if row]
 
     with pred_fname.open() as pred_source:
-        pred_reader = csv.reader(pred_source, delimiter="\t")
+        pred_reader = csv.reader(pred_source, dialect=csv.excel_tab, quoting=csv.QUOTE_NONE)
         pred_rows = [row for row in pred_reader if row]
 
     validate_data(gold_rows, pred_rows)
@@ -133,6 +147,8 @@ def evaluate(y_gold, y_pred, eval_labels):
     Returns:
         sklearn classification report (string)
     """
+    validate_ref_labels(eval_labels, y_gold)
+    validate_res_labels(eval_labels, y_pred)
     return classification_report(y_gold, y_pred, labels=eval_labels, output_dict=True)
 
 def write_to_scores(report, output_fname):
@@ -144,8 +160,10 @@ def write_to_scores(report, output_fname):
       """
     with open(output_fname, 'a+') as scores_file:
 
-        scores_file.write('subtask_2_f1-score_macro: ' + str(report['macro avg']['f1-score']) + '\n')
-
+        if report is not None:
+            scores_file.write('subtask_2_f1-score_macro: ' + str(report['macro avg']['f1-score']) + '\n')
+        else:
+            scores_file.write('subtask_2_f1-score_macro: -1\n')
 
 
 def task_2_eval_main(ref_path, res_path, output_dir, eval_labels):
@@ -178,6 +196,7 @@ def task_2_eval_main(ref_path, res_path, output_dir, eval_labels):
     if len(results_files) == 0:
         message = "No subtask 2 files to evaluate."
         warnings.warn(message)
+        write_to_scores(None, Path(output_dir).joinpath('scores.txt'))
         return None
 
     for child in ref_path.iterdir():

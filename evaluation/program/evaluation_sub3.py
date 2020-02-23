@@ -50,7 +50,7 @@ def get_relation_from(row):
     Returns:
         relation_from: string
     """
-    return row[-2]
+    return row[-2].strip()
 
 
 def get_relation_to(row):
@@ -60,8 +60,12 @@ def get_relation_to(row):
     Returns:
         relation_to: string
     """
-    return row[-3]
+    return row[-3].strip()
 
+def remove_relation(row):
+    row[-2] = "0"
+    row[-3] = "-1"
+    return row
 
 def is_root(row):
     """Is this token the root of the relation?"""
@@ -70,6 +74,7 @@ def is_root(row):
 
 def has_relation(row):
     """Does this token participate in a relation?"""
+
     return get_relation(row) != "0"
 
 
@@ -110,13 +115,14 @@ def validate_tokens(gold_rows, pred_rows):
         pred_rows: list of lists of strings
     """
     for row_index in range(len(pred_rows)):
-        gold_token = get_token(gold_rows[row_index])
-        pred_token = get_token(pred_rows[row_index])
-        if pred_token != gold_token:
+        gold_token = get_token(gold_rows[row_index]).split()
+        pred_token = get_token(pred_rows[row_index]).split()
+
+        if len(gold_token) != len(pred_token):
             raise ValueError("Token mismatch row {}: Pred {} Gold {}".format(row_index, pred_token, gold_token))
 
 
-def validate_relations(gold_rows, pred_rows):
+def validate_pred_relations(gold_rows, pred_rows):
     """Check that pred file doesn't have any unknown relations
       Inputs:
         gold_rows: list of lists of strings
@@ -132,20 +138,35 @@ def validate_relations(gold_rows, pred_rows):
     if unknown_relations:
         raise ValueError("Encountered unknown relation in the following rows {}".format(unknown_relations))
 
+def validate_ref_relations(eval_labels, ref_rows):
+    validated_rows = []
+    for row_index in range(len(ref_rows)):
+        ref_relation = get_relation(ref_rows[row_index])
+        if ref_relation is not '0' and ref_relation not in eval_labels:
+            warnings.warn("Labels exist in the reference files that will not be scored given the current evaluation labels.")
+            row = remove_relation(ref_rows[row_index])
+        else:
+            row = ref_rows[row_index]
+        validated_rows.append(row)
+    return validated_rows
 
-def validate_data(gold_rows, pred_rows):
+
+def validate_data(gold_rows, pred_rows, eval_relations):
     """Make sure the data is OK
       Inputs:
         gold_rows: list of lists of strings
         pred_rows: list of lists of strings
     """
+    gold_rows = validate_ref_relations(eval_relations, gold_rows)
+    validate_pred_relations(gold_rows, pred_rows)
     validate_length(gold_rows, pred_rows)
     validate_columns(gold_rows, pred_rows)
     validate_tokens(gold_rows, pred_rows)
+    return gold_rows
     # validate_relations(gold_rows, pred_rows)
 
 
-def get_gold_and_pred_relations(gold_fname, pred_fname):
+def get_gold_and_pred_relations(gold_fname, pred_fname, eval_relations):
     """Get the relation pairs for evaluation
     Inputs:
         gold_fname: path to .deft file
@@ -157,15 +178,17 @@ def get_gold_and_pred_relations(gold_fname, pred_fname):
     y_gold_rel_pairs = set()  # [(elem1, elem2, rel)]
     y_pred_rel_pairs = set()  # [(elem1, elem2, rel)]
 
+
     with gold_fname.open() as gold_source:
-        gold_reader = csv.reader(gold_source, delimiter="\t")
+        gold_reader = csv.reader(gold_source, dialect=csv.excel_tab, quoting=csv.QUOTE_NONE)
         gold_rows = [row for row in gold_reader if row]
 
     with pred_fname.open() as pred_source:
-        pred_reader = csv.reader(pred_source, delimiter="\t")
+        pred_reader = csv.reader(pred_source, dialect=csv.excel_tab, quoting=csv.QUOTE_NONE)
         pred_rows = [row for row in pred_reader if row]
 
-    validate_data(gold_rows, pred_rows)
+    gold_rows = validate_data(gold_rows, pred_rows, eval_relations)
+
 
     gold_relation_rows = [row for row in gold_rows if has_relation(row)]
     pred_relation_rows = [row for row in pred_rows if has_relation(row)]
@@ -245,8 +268,11 @@ def write_to_scores(report, output_fname):
     with open(output_fname, 'a+') as scores_file:
         # scores_file.write('precision_macro: ' + report['macro']['p'])
         # scores_file.write('recall_macro: ' + report['macro']['r'])
-        scores_file.write('subtask_3_f1-score_macro: ' + str(report['macro']['f']) + '\n')
 
+        if report is not None:
+            scores_file.write('subtask_3_f1-score_macro: ' + str(report['macro']['f']) + '\n')
+        else:
+            scores_file.write('subtask_3_f1-score_macro: -1\n')
 
 
 def task_3_eval_main(ref_path, res_path,  output_dir, eval_relations):
@@ -272,13 +298,14 @@ def task_3_eval_main(ref_path, res_path,  output_dir, eval_relations):
                 message = "Expected submission file '{0}', found files {1}"
                 sys.exit(message.format(child, os.listdir(child.parents[0])))
 
-            temp_y_gold, temp_y_pred = get_gold_and_pred_relations(ref_path.joinpath(child.name), child)
+            temp_y_gold, temp_y_pred = get_gold_and_pred_relations(ref_path.joinpath(child.name), child, eval_relations)
             y_gold.extend(temp_y_gold)
             y_pred.extend(temp_y_pred)
 
     if len(results_files) == 0:
         message = "No subtask 3 files to evaluate."
         warnings.warn(message)
+        write_to_scores(None, Path(output_dir).joinpath('scores.txt'))
         return None
 
     for child in ref_path.iterdir():

@@ -54,7 +54,6 @@ def main(cfg):
     ref_path = input_dir.joinpath('ref')
     res_path = input_dir.joinpath('res')
 
-
     eval_task_1 = cfg['task_1']['do_eval']
     eval_task_2 = cfg['task_2']['do_eval']
     eval_task_3 = cfg['task_3']['do_eval']
