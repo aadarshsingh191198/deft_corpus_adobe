@@ -1,0 +1,860 @@
+Subject,Sentence,Label
+t, 26 . Living things are highly organized and structured , following a hierarchy that can be examined on a scale from small to large .
+t, The atom is the smallest and most fundamental unit of matter .
+t, It consists of a nucleus surrounded by electrons .
+t, 47 . At its most fundamental level , life is made up of matter .
+t, Matter is any substance that occupies space and has mass .
+t, Elements are unique forms of matter with specific chemical and physical properties that can not be broken down into smaller substances by ordinary chemical reactions .
+t, 65 . Electron Orbitals
+t, Although useful to explain the reactivity and chemical bonding of certain elements , the Bohr model of the atom does not accurately reflect how electrons are spatially distributed surrounding the nucleus .
+t, They do not circle the nucleus like the earth orbits the sun , but are found in electron orbitals .
+t, These relatively complex shapes result from the fact that electrons behave not just like particles , but also like waves .
+t, 101 . An acid is a substance that increases the concentration of hydrogen ions ( H+ ) in a solution , usually by having one of its hydrogen atoms dissociate .
+t, A base provides either hydroxide ions ( OH – ) or other negatively charged ions that combine with hydrogen ions , reducing their concentration in the solution and thereby raising the pH .
+t, In cases where the base releases hydroxide ions , these ions bind to free hydrogen ions , generating new water molecules .
+t, 158 . The rRNA ensures the proper alignment of the mRNA and the ribosomes ; the rRNA of the ribosome also has an enzymatic activity ( peptidyl transferase ) and catalyzes the formation of the peptide bonds between two aligned amino acids .
+t, Transfer RNA ( tRNA ) is one of the smallest of the four types of RNA , usually 70 – 90 nucleotides long .
+t, It carries the correct amino acid to the site of protein synthesis .
+t, 164 . A prokaryote is a simple , mostly single - celled ( unicellular ) organism that lacks a nucleus , or any other membrane - bound organelle .
+t, We will shortly come to see that this is significantly different in eukaryotes .
+t, 179 . Vesicles and vacuoles are membrane - bound sacs that function in storage and transport .
+t, Other than the fact that vacuoles are somewhat larger than vesicles , there is a very subtle distinction between them : The membranes of vesicles can fuse with either the plasma membrane or other membrane systems within the cell .
+t, 611 . Since 2005 , automated sequencing techniques used by laboratories are under the umbrella of next - generation sequencing , which is a group of automated techniques used for rapid DNA sequencing .
+t, These automated low - cost sequencers can generate sequences of hundreds of thousands or millions of short fragments ( 25 to 500 base pairs ) in the span of one day .
+t, 623 . Pharmacogenomics , also called toxicogenomics , involves evaluating the effectiveness and safety of drugs on the basis of information from an individual 's genomic sequence .
+t, Genomic responses to drugs can be studied using experimental animals ( such as laboratory rats or mice ) or live cells in the laboratory before embarking on studies with humans .
+t, 635 . In the gradual speciation model , species diverge gradually over time in small steps .
+t, In the punctuated equilibrium model , a new species undergoes changes quickly from the parent species , and then remains largely unchanged for long periods of time afterward ( [ link ] ) .
+t, 707 . Scientists believe the ultimate in HGT occurs through genome fusion between different species of prokaryotes when two symbiotic organisms become endosymbiotic .
+t, This occurs when one species is taken inside the cytoplasm of another species , which ultimately results in a genome consisting of genes from both the endosymbiont and the host .
+t, 734 . The fact that HIV produces some of its own enzymes not found in the host has allowed researchers to develop drugs that inhibit these enzymes .
+t, These drugs , including the reverse transcriptase inhibitor AZT , inhibit HIV replication by reducing the activity of the enzyme without affecting the host ’s metabolism .
+t, This approach has led to the development of a variety of drugs used to treat HIV and has been effective at reducing the number of infectious virions ( copies of viral RNA ) in the blood to non - detectable levels in many HIV - infected individuals .
+t, 749 . Other viruses induce hypoplasia , or decreased cell growth , in the leaves of plants , causing thin , yellow areas to appear .
+t, Still other viruses affect the plant by directly killing plant cells , a process known as cell necrosis .
+t, Other symptoms of plant viruses include malformed leaves , black streaks on the stems of the plants , altered growth of stems , leaves , or fruits , and ring spots , which are circular or linear areas of discoloration found in a leaf .
+t, 782 . Archaea are not affected by bacteriophages but instead have their own viruses that translocate genetic material from one individual to another .
+t, In conjugation , DNA is transferred from one prokaryote to another by means of a pilus , which brings the organisms into contact with one another .
+t, The DNA transferred can be in the form of a plasmid or as a hybrid , containing both plasmid and chromosomal DNA .
+t, 785 . Phototrophs ( or phototrophic organisms ) obtain their energy from sunlight .
+t, Chemotrophs ( or chemosynthetic organisms ) obtain their energy from chemical compounds .
+t, Chemotrophs that can use organic compounds as energy sources are called chemoorganotrophs .
+t, 890 . A microphyll is small and has a simple vascular system .
+t, A single unbranched vein — a bundle of vascular tissue made of xylem and phloem — runs through the center of the leaf .
+t, Microphylls may have originated from the flattening of lateral branches , or from sporangia that lost their reproductive capabilities .
+t, 914 . As illustrated in [ link ] , styles , stigmas , and ovules constitute the female organ : the gynoecium or carpel .
+t, Flower structure is very diverse , and carpels may be singular , multiple , or fused .
+t, 938 . Following fertilization of the egg , the ovule grows into a seed .
+t, The surrounding tissues of the ovary thicken , developing into a fruit that will protect the seed and often ensure its dispersal over a wide geographic range .
+t, Not all fruits develop from an ovary ; such structures are “ false fruits . ”
+t, Like flowers , fruit can vary tremendously in appearance , size , smell , and taste .
+t, 1838 . Cytokine Release Effect
+t, The binding of PRRs with PAMPs triggers the release of cytokines , which signal that a pathogen is present and needs to be destroyed along with any infected cells .
+t, A cytokine is a chemical messenger that regulates cell differentiation ( form and function ) , proliferation ( production ) , and gene expression to affect immune responses .
+t, At least 40 types of cytokines exist in humans that differ in terms of the cell type that produces them , the cell type that responds to them , and the changes they produce .
+t, 1850 . NK cells are always active ; an interaction with normal , intact MHC I molecules on a healthy cell disables the killing sequence , and the NK cell moves on .
+t, After the NK cell detects an infected or tumor cell , its cytoplasm secretes granules comprised of perforin , a destructive protein that creates a pore in the target cell .
+t, Granzymes are released along with the perforin in the immunological synapse .
+t, 1871 . An antibody , also known as an immunoglobulin ( Ig ) , is a protein that is produced by plasma cells after stimulation by an antigen .
+t, Antibodies are the functional basis of humoral immunity .
+t, 1895 . Sexual reproduction starts with the combination of a sperm and an egg in a process called fertilization .
+t, This can occur either inside ( internal fertilization ) or outside ( external fertilization ) the body of the female .
+t, Humans provide an example of the former whereas seahorse reproduction is an example of the latter .
+t, 1913 . The oviducts , or fallopian tubes , extend from the uterus in the lower abdominal cavity to the ovaries , but they are not in contact with the ovaries .
+t, The lateral ends of the oviducts flare out into a trumpet - like structure and have a fringe of finger - like projections called fimbriae , illustrated in [ link ] b .
+t, 1919 . FSH enters the testes and stimulates the Sertoli cells to begin facilitating spermatogenesis using negative feedback , as illustrated in [ link ] .
+t, LH also enters the testes and stimulates the interstitial cells of Leydig to make and release testosterone into the testes and the blood .
+t, 1949 . Many organisms sink to the bottom of the ocean when they die in the open water ; when this occurs , the energy found in that living organism is sequestered for some time unless ocean upwelling occurs .
+t, Ocean upwelling is the rising of deep ocean waters that occurs when prevailing winds blow along surface waters near a coastline ( [ link ] ) .
+t, As the wind pushes ocean waters offshore , water from the bottom of the ocean moves up to replace this water .
+t, 1952 . Temperature and moisture are important influences on plant production ( primary productivity ) and the amount of organic matter available as food ( net primary productivity ) .
+t, Net primary productivity is an estimation of all of the organic matter available as food ; it is calculated as the total amount of carbon fixed per year minus the amount that is oxidized during cellular respiration .
+t, In terrestrial environments , net primary productivity is estimated by measuring the aboveground biomass per unit area , which is the total mass of living plants , excluding roots .
+t, 1967 . These fishes can feed on coral , the cryptofauna ( invertebrates found within the calcium carbonate substrate of the coral reefs ) , or the seaweed and algae that are associated with the coral .
+t, In addition , some fish species inhabit the boundaries of a coral reef ; these species include predators , herbivores , or planktivores .
+t, Predators are animal species that hunt and are carnivores or “ flesh eaters . ”
+t, Herbivores eat plant material , and planktivores eat plankton .
+t, 1991 . Malthus published a book in 1798 stating that populations with unlimited natural resources grow very rapidly , and then population growth decreases as resources become depleted .
+t, This accelerating pattern of increasing population size is called exponential growth .
+t, 1997 . The successful ones will survive to pass on their own characteristics and traits ( which we know now are transferred by genes ) to the next generation at a greater rate ( natural selection ) .
+t, To model the reality of limited resources , population ecologists developed the logistic growth model .
+t, 2003 . In another example , the chameleon can change its color to match its surroundings ( [ link]b ) .
+t, Both of these are examples of camouflage , or avoiding detection by blending in with the background .
+t, 2009 . Symbiosis
+t, Symbiotic relationships , or symbioses ( plural ) , are close interactions between individuals of different species over an extended period of time which impact the abundance and distribution of the associating populations .
+t, Most scientists accept this definition , but some restrict the term to only those species that are mutualistic , where both individuals benefit from the interaction .
+t, 400 . The nuclear division that forms haploid cells , which is called meiosis , is related to mitosis .
+t, As you have learned , mitosis is the part of a cell reproduction cycle that results in identical daughter nuclei that are also genetically identical to the original parent nucleus .
+t, 625 . For all of these reasons , pure culture is not always the best way to study microorganisms .
+t, Metagenomics is the study of the collective genomes of multiple species that grow and interact in an environmental niche .
+t, Metagenomics can be used to identify new species more rapidly and to analyze the effect of pollutants on the environment ( [ link ] ) .
+t, 634 . Hybrids can be either less fit than the parents , more fit , or about the same .
+t, Usually hybrids tend to be less fit ; therefore , such reproduction diminishes over time , nudging the two species to diverge further in a process called reinforcement .
+t, This term is used because the low success of the hybrids reinforces the original speciation .
+t, 763 . Fossilized microbial mats represent the earliest record of life on Earth .
+t, A stromatolite is a sedimentary structure formed when minerals are precipitated out of water by prokaryotes in a microbial mat ( [ link ] ) .
+t, Stromatolites form layered rocks made of carbonate or silicate .
+t, 784 . Prokaryotes can use different sources of energy to assemble macromolecules from smaller molecules .
+t, Phototrophs ( or phototrophic organisms ) obtain their energy from sunlight .
+t, Chemotrophs ( or chemosynthetic organisms ) obtain their energy from chemical compounds .
+t, 817 . Some dinoflagellates generate light , called bioluminescence , when they are jarred or stressed .
+t, Large numbers of marine dinoflagellates ( billions or trillions of cells per wave ) can emit light and cause an entire breaking wave to twinkle or take on a brilliant blue color ( [ link ] ) .
+t, 823 . Some fungal organisms multiply only asexually , whereas others undergo both asexual reproduction and sexual reproduction with alternation of generations .
+t, Most fungi produce a large number of spores , which are haploid cells that can undergo mitosis to form multicellular , haploid individuals .
+t, Like bacteria , fungi play an essential role in ecosystems because they are decomposers and participate in the cycling of nutrients by breaking down organic materials to simple molecules .
+t, Fungi often interact with other organisms , forming beneficial or mutualistic associations .
+t, 850 . Most members live on land , with a few aquatic exceptions .
+t, They form visible mycelia with a fuzzy appearance and are commonly known as mold . Reproduction of the fungi in this group is strictly asexual and occurs mostly by production of asexual conidiospores ( [ link ] ) .
+t, Some hyphae may recombine and form heterokaryotic hyphae .
+t, 916 . The megaspores and the female gametophytes are produced and protected by the thick tissues of the carpel .
+t, A long , thin structure called a style leads from the sticky stigma , where pollen is deposited , to the ovary , enclosed in the carpel .
+t, The ovary houses one or more ovules , each of which will develop into a seed upon fertilization .
+t, 928 . Many societies eat almost exclusively vegetarian fare and depend solely on seed plants for their nutritional needs .
+t, A few crops ( rice , wheat , and potatoes ) dominate the agricultural landscape .
+t, Many crops were developed during the agricultural revolution , when human societies made the transition from nomadic hunter – gatherers to horticulture and agriculture .
+t, 1339 . Chyme moves from the stomach to the small intestine .
+t, The small intestine is the organ where the digestion of protein , fats , and carbohydrates is completed .
+t, The small intestine is a long tube - like organ with a highly folded surface containing finger - like projections called the villi .
+t, 1342 . Digestive juices from the pancreas , liver , and gallbladder , as well as from gland cells of the intestinal wall itself , enter the duodenum .
+t, Bile is produced in the liver and stored and concentrated in the gallbladder .
+t, Bile contains bile salts which emulsify lipids while the pancreas produces enzymes that catabolize starches , disaccharides , proteins , and fats .
+t, 1531 . When blood pressure drops , the renin - angiotensin - aldosterone system ( RAAS ) is activated .
+t, Cells in the juxtaglomerular apparatus , which regulates the functions of the nephrons of the kidney , detect this and release renin .
+t, Renin , an enzyme , circulates in the blood and reacts with a plasma protein produced by the liver called angiotensinogen .
+t, 1951 . The spring and fall turnover is a seasonal process that recycles nutrients and oxygen from the bottom of a freshwater ecosystem to the top of a body of water ( [ link ] ) .
+t, These turnovers are caused by the formation of a thermocline : a layer of water with a temperature that is significantly different from that of the surrounding layers .
+t, In wintertime , the surface of lakes found in many northern regions is frozen .
+t, 1999 . This model also allows for the population of a negative population growth , or a population decline .
+t, This occurs when the number of individuals in the population exceeds the carrying capacity ( because the value of ( K - N ) / K is negative ) .
+t, A graph of this equation yields an S - shaped curve ( [ link ] ) , and it is a more realistic model of population growth than exponential growth .
+t, There are three different sections to an S - shaped curve .
+t, 2035 . Aggressive displays are also common in the animal kingdom .
+t, An example is when a dog bares its teeth when it wants another dog to back down .
+t, 2059 . Equilibrium is the steady state of an ecosystem where all organisms are in balance with their environment and with each other .
+t, In ecology , two parameters are used to measure changes in ecosystems : resistance and resilience .
+t, 2065 . In many ecosystems , the bottom of the food chain consists of photosynthetic organisms ( plants and/or phytoplankton ) , which are called primary producers .
+t, The organisms that consume the primary producers are herbivores : the primary consumers .
+t, Secondary consumers are usually carnivores that eat the primary consumers .
+t, 2080 . For example , in the English Channel ecosystem the primary producers account for a biomass of 4 g / m2 ( grams per meter squared ) , while the primary consumers exhibit a biomass of 21 g / m2 .
+t, The productivity of the primary producers is especially important in any ecosystem because these organisms bring energy to other living organisms by photoautotrophy or chemoautotrophy .
+t, The rate at which photosynthetic primary producers incorporate energy from the sun is called gross primary productivity .
+t, An example of gross primary productivity is shown in the compartment diagram of energy flow within the Silver Springs aquatic ecosystem as shown ( [ link ] ) .
+t, 15 . While research efforts in both basic science and applied science are usually carefully planned , it is important to note that some discoveries are made by serendipity , that is , by means of a fortunate accident or a lucky surprise .
+t, Penicillin was discovered when biologist Alexander Fleming accidentally left a petri dish of Staphylococcus bacteria open .
+t, 24 . Review articles do not follow the IMRAD format because they do not present original scientific findings , or primary literature ; instead , they summarize and comment on findings that were published as primary literature and typically include extensive reference sections .
+t, 57 . These two alternate forms of carbon are isotopes .
+t, Some isotopes may emit neutrons , protons , and electrons , and attain a more stable atomic configuration ( lower level of potential energy ) ; these are radioactive isotopes , or radioisotopes .
+t, Radioactive decay ( carbon-14 decaying to eventually become nitrogen-14 ) describes the energy loss that occurs when an unstable atom ’s nucleus releases radiation . Evolution Connection
+t, 60 . Atoms that chemically react and bond to each other form molecules .
+t, Molecules are simply two or more atoms chemically bonded together .
+t, Logically , when two atoms chemically bond to form a molecule , their electrons , which form the outermost region of each atom , come together first as the atoms form a chemical bond .
+t, 81 . Covalent Bonds and Other Bonds and InteractionsAnother way the octet rule can be satisfied is by the sharing of electrons between atoms to form covalent bonds .
+t, These bonds are stronger and much more common than ionic bonds in the molecules of living organisms .
+t, 123 . During this process , the hydroxyl group of one monosaccharide combines with the hydrogen of another monosaccharide , releasing a molecule of water and forming a covalent bond .
+t, A covalent bond formed between a carbohydrate molecule and another molecule ( in this case , between two monosaccharides ) is known as a glycosidic bond ( [ link ] ) .
+t, Glycosidic bonds ( also called glycosidic linkages ) can be of the alpha or the beta type .
+t, 138 . Enzymes , which are produced by living cells , are catalysts in biochemical reactions ( like digestion ) and are usually complex or conjugated proteins .
+t, Each enzyme is specific for the substrate ( a reactant that binds to an enzyme ) it acts on .
+t, 366 . The cell cycle has two major phases : interphase and the mitotic phase ( [ link ] ) .
+t, During interphase , the cell grows and DNA is replicated .
+t, During the mitotic phase , the replicated DNA and cytoplasmic contents are separated , and the cell divides .
+t, 714 . Viruses are acellular , meaning they are biological entities that do not have a cellular structure .
+t, They therefore lack most of the components of cells , such as organelles , ribosomes , and the plasma membrane .
+t, 921 . Angiosperms are classified in a single phylum : the Anthophyta .
+t, Modern angiosperms appear to be a monophyletic group , which means that they originate from a single ancestor .
+t, 933 . Pollen and seed were innovative structures that allowed seed plants to break their dependence on water for reproduction and development of the embryo , and to conquer dry land .
+t, The pollen grains are the male gametophytes , which contain the sperm ( gametes ) of the plant .
+t, The small haploid ( 1n ) cells are encased in a protective coat that prevents desiccation ( drying out ) and mechanical damage .
+t, 963 . The current understanding of evolutionary relationships between animal , or Metazoa , phyla begins with the distinction between “ true ” animals with true differentiated tissues , called Eumetazoa , and animal phyla that do not have true differentiated tissues ( such as the sponges ) , called Parazoa .
+t, Both Parazoa and Eumetazoa evolved from a common ancestral organism that resembles the modern - day protists called choanoflagellates .
+t, 975 . Pinacocytes , which are epithelial - like cells , form the outermost layer of sponges and enclose a jelly - like substance called mesohyl .
+t, Mesohyl is an extracellular matrix consisting of a collagen - like gel with suspended cells that perform various functions .
+t, The gel - like consistency of mesohyl acts like an endoskeleton and maintains the tubular morphology of sponges .
+t, 1002 . One of the functions of the mantle is to secrete the shell .
+t, Some bivalves like oysters and mussels possess the unique ability to secrete and deposit a calcareous nacre or “ mother of pearl ” around foreign particles that may enter the mantle cavity .
+t, This property has been commercially exploited to produce pearls .
+t, 1053 . Some species of salamanders and all caecilians are functionally limbless ; their limbs are vestigial .
+t, An important characteristic of extant amphibians is a moist , permeable skin that is achieved via mucus glands that keep the skin moist ; thus , exchange of oxygen and carbon dioxide with the environment can take place through it ( cutaneous respiration ) .
+t, Additional characteristics of amphibians include pedicellate teeth — teeth in which the root and crown are calcified , separated by a zone of noncalcified tissue — and a papilla amphibiorum and papilla basilaris , structures of the inner ear that are sensitive to frequencies below and above 10,00 hertz , respectively .
+t, 1056 . Salamanders are amphibians that belong to the order Urodela .
+t, Living salamanders ( [ link ] ) include approximately 620 species , some of which are aquatic , other terrestrial , and some that live on land only as adults .
+t, 1071 . One of the oldest known amniotes is Casineria , which had both amphibian and reptilian characteristics .
+t, One of the earliest undisputed reptiles was Hylonomus .
+t, Soon after the first amniotes appeared , they diverged into three groups — synapsids , anapsids , and diapsids — during the Permian period .
+t, 1107 . The apes are divided into two groups .
+t, The lesser apes comprise the family Hylobatidae , including gibbons and siamangs .
+t, The great apes include the genera Pan ( chimpanzees and bonobos ) ( [ link]a ) , Gorilla ( gorillas ) , Pongo ( orangutans ) , and Homo ( humans ) ( [ link]b ) .
+t, 1134 . The epidermis of a leaf also contains openings known as stomata , through which the exchange of gases takes place ( [ link ] ) .
+t, Two cells , known as guard cells , surround each leaf stoma , controlling its opening and closing and thus regulating the uptake of carbon dioxide and the release of oxygen and water vapor .
+t, Trichomes are hair - like structures on the epidermal surface .
+t, 1143 . The increase in length of the shoot and the root is referred to as primary growth , and is the result of cell division in the shoot apical meristem .
+t, Secondary growth is characterized by an increase in thickness or girth of the plant , and is caused by cell division in the lateral meristem .
+t, [ link ] shows the areas of primary and secondary growth in a plant .
+t, 1182 . Sugars produced in sources , such as leaves , need to be delivered to growing parts of the plant via the phloem in a process called translocation .
+t, The points of sugar delivery , such as roots , young shoots , and developing seeds , are called sinks .
+t, Seeds , tubers , and bulbs can be either a source or a sink , depending on the plant ’s stage of development and the season .
+t, 1227 . A saprophyte is a plant that does not have chlorophyll and gets its food from dead matter , similar to bacteria and fungi ( note that fungi are often called saprophytes , which is incorrect , because fungi are not plants ) .
+t, Plants like these use enzymes to convert organic food materials into simpler forms from which they can absorb nutrients ( [ link ] ) .
+t, 1239 . First , in the process of megasporogenesis , a single cell in the diploid megasporangium — an area of tissue in the ovules — undergoes meiosis to produce four megaspores , only one of which survives . During the second phase , megagametogenesis , the surviving haploid megaspore undergoes mitosis to produce an eight - nucleate , seven - cell female gametophyte , also known as the megagametophyte or embryo sac .
+t, Two of the nuclei — the polar nuclei — move to the equator and fuse , forming a single , diploid central cell .
+t, 1242 . Three nuclei position themselves on the end of the embryo sac opposite the micropyle and develop into the antipodal cells , which later degenerate .
+t, The nucleus closest to the micropyle becomes the female gamete , or egg cell , and the two adjacent nuclei develop into synergid cells ( [ link ] ) .
+t, The synergids help guide the pollen tube for successful fertilization , after which they disintegrate .
+t, 1296 . Two of these are major cavities that contain smaller cavities within them .
+t, The dorsal cavity contains the cranial and the vertebral ( or spinal ) cavities .
+t, The ventral cavity contains the thoracic cavity , which in turn contains the pleural cavity around the lungs and the pericardial cavity , which surrounds the heart .
+t, 1299 . The types of epithelia are classified by the shapes of cells present and the number of layers of cells .
+t, Epithelia composed of a single layer of cells is called simple epithelia ; epithelial tissue composed of multiple layers is called stratified epithelia .
+t, [ link ] summarizes the different types of epithelial tissues .
+t, 1569 . An exoskeleton is an external skeleton that consists of a hard encasement on the surface of an organism .
+t, For example , the shells of crabs and insects are exoskeletons ( [ link ] ) .
+t, 1602 . The bones of fibrous joints are held together by fibrous connective tissue .
+t, There is no cavity , or space , present between the bones and so most fibrous joints do not move at all , or are only capable of minor movements .
+t, 1617 . Straightening a limb after flexion is an example of extension .
+t, Extension past the regular anatomical position is referred to as hyperextension .
+t, This includes moving the neck back to look upward , or bending the wrist so that the hand moves away from the forearm .
+t, 1626 . Protraction is the anterior movement of a bone in the horizontal plane .
+t, Retraction occurs as a joint moves back into position after protraction .
+t, Protraction and retraction can be seen in the movement of the mandible as the jaw is thrust outwards and then back inwards .
+t, 1827 . The urea cycle is the primary mechanism by which mammals convert ammonia to urea .
+t, Urea is made in the liver and excreted in urine .
+t, 1965 . Coral reefs are ocean ridges formed by marine invertebrates living in warm shallow waters within the photic zone of the ocean .
+t, They are found within 30˚ north and south of the equator .
+t, 1986 . A variety of methods can be used to sample populations to determine their size and density .
+t, For immobile organisms such as plants , or for very small and slow - moving organisms , a quadrat may be used ( [ link ] ) .
+t, A quadrat is a way of marking off square areas within a habitat , either by staking out an area with sticks and string , or by the use of a wood , plastic , or metal square placed on the ground .
+t, 1998 . Eventually , the growth rate will plateau or level off ( [ link ] ) .
+t, This population size , which represents the maximum population size that a particular environment can support , is called the carrying capacity , or K.The formula we use to calculate logistic growth adds the carrying capacity as a moderating force in the growth rate .
+t, The expression “ K – N ” is indicative of how many individuals may be added to a population at a given stage , and “ K – N ” divided by “ K ” is the fraction of the carrying capacity available for further growth .
+t, 2004 . Predators that ignore this coloration and eat the organisms will experience their unpleasant taste or presence of toxic chemicals and learn not to eat them in the future .
+t, This type of defensive mechanism is called aposematic coloration , or warning coloration ( [ link ] ) .
+t, 2058 . An ecosystem is a community of living organisms and their interactions with their abiotic ( non - living ) environment .
+t, Ecosystems can be small , such as the tide pools found near the rocky shores of many oceans , or large , such as the Amazon Rainforest in Brazil ( [ link ] ) .
+t, A ( a ) tidal pool ecosystem in Matinicus Island in Maine is a small ecosystem , while the ( b ) Amazon Rainforest in Brazil is a large ecosystem .
+t, 2195 . Prime Minister Grenville , author of the Sugar Act of 1764 , introduced the Stamp Act in the early spring of 1765 .
+t, Under this act , anyone who used or purchased anything printed on paper had to buy a revenue stamp ( [ link ] ) for it .
+t, 2210 . Paine wrote Common Sense ( [ link ] ) in simple , direct language aimed at ordinary people , not just the learned elite .
+t, The pamphlet proved immensely popular and was soon available in all thirteen colonies , where it helped convince many to reject monarchy and the British Empire in favor of independence and a republican form of government .
+t, 2225 . Most revolutionaries pledged their greatest loyalty to their individual states .
+t, Recalling the experience of British reform efforts imposed in the 1760s and 1770s , they feared a strong national government and took some time to adopt the Articles of Confederation , the first national constitution .
+t, In June 1776 , the Continental Congress prepared to announce independence and began to think about the creation of a new government to replace royal authority .
+t, 2321 . A variety of reformers created organizations devoted to temperance , that is , moderation or self - restraint .
+t, Each of these organizations had its own distinct orientation and target audience .
+t, 2336 . In 1855 and 1856 , pro- and antislavery activists flooded Kansas with the intention of influencing the popular - sovereignty rule of the territories .
+t, Proslavery Missourians who crossed the border to vote in Kansas became known as border ruffians ; these gained the advantage by winning the territorial elections , most likely through voter fraud and illegal vote counting .
+t, ( By some estimates , up to 60 percent of the votes cast in Kansas were fraudulent . )
+t, 2378 . But the image of them as swindlers taking advantage of the South at its time of need resonated with a white southern population aggrieved by loss and economic decline .
+t, Southern whites who supported Reconstruction , known as scalawags , also generated great hostility as traitors to the South .
+t, They , too , became targets of the Klan and similar groups .
+t, 2411 . The boss would contact city politicians and strongly urge them to appropriate the needed funds for the sidewalk in exchange for the promise that the boss would direct votes in their favor in the upcoming election .
+t, The boss then used the funds to pay one of his friends for the sidewalk construction , typically at an exorbitant cost , with a financial kickback to the boss , which was known as graft .
+t, The sidewalk was built more quickly than anyone hoped , in exchange for the citizens ’ promises to vote for machine - supported candidates in the next elections .
+t, 2519 . Roosevelt was aware of the need for immediate help , but he mostly wanted to create more jobs .
+t, FERA overseer Harry Hopkins , who later was in charge of the Civil Works Administration ( CWA ) , shared this sentiment .
+t, With Hopkins at its helm , the CWA , founded in early 1933 , went on to put millions of men and women to work .
+t, 2522 . A new government agency , the National Recovery Administration ( NRA ) , was central to this plan , and mandated that businesses accept a code that included minimum wages and maximum work hours .
+t, In order to protect workers from potentially unfair agreements among factory owners , every industry had its own “ code of fair practice ” that included workers ’ rights to organize and use collective bargaining to ensure that wages rose with prices ( [ link ] ) .
+t, 2585 . However , as president , he was responsible for doing so .
+t, In 1957 , Central High School in Little Rock , Arkansas , was forced to accept its first nine African American students , who became known as the Little Rock Nine .
+t, In response , Arkansas governor Orval Faubus called out the state National Guard to prevent the students from attending classes , removing the troops only after Eisenhower told him to do so .
+t, 2128 . Although marked by great topographic , linguistic , and cultural diversity , this region cradled a number of civilizations with similar characteristics .
+t, Mesoamericans were polytheistic ; their gods possessed both male and female traits and demanded blood sacrifices of enemies taken in battle or ritual bloodletting .
+t, Corn , or maize , domesticated by 5000 BCE , formed the basis of their diet .
+t, 2137 . These intensely religious migrants dreamed of creating communities of reformed Protestantism where the corruption of England would be eliminated .
+t, One of the first groups of Puritans to move to North America , known as Pilgrims and led by William Bradford , had originally left England to live in the Netherlands .
+t, Fearing their children were losing their English identity among the Dutch , however , they sailed for North America in 1620 to settle at Plymouth , the first English settlement in New England .
+t, 2161 . In 1610 , Spanish settlers established themselves at Santa Fe — originally named La Villa Real de la Santa Fe de San Francisco de Asís , or “ Royal City of the Holy Faith of St. Francis of Assisi ” — where many Pueblo villages were located .
+t, Santa Fe became the capital of the Kingdom of New Mexico , an outpost of the larger Spanish Viceroyalty of New Spain , which had its headquarters in Mexico City .
+t, As they had in other Spanish colonies , Franciscan missionaries labored to bring about a spiritual conquest by converting the Pueblo to Catholicism .
+t, At first , the Pueblo adopted the parts of Catholicism that dovetailed with their own long - standing view of the world .
+t, 2170 . The war continued until 1763 , when the French signed the Treaty of Paris .
+t, This treaty signaled a dramatic reversal of fortune for France .
+t, 2197 . Henry replied that Virginians were subject only to taxes that they themselves — or their representatives — imposed .
+t, In short , there could be no taxation without representation .
+t, 2242 . The British would turn over the frontier posts in the Northwest , American ships would be allowed to trade freely in the West Indies , and the United States agreed to assemble a commission charged with settling colonial debts U.S. citizens owed British merchants .
+t, The treaty did not address the important issue of impressment , however — the British navy ’s practice of forcing or “ impressing ” American sailors to work and fight on British warships .
+t, Jay ’s Treaty led the Spanish , who worried that it signaled an alliance between the United States and Great Britain , to negotiate a treaty of their own — Pinckney ’s Treaty — that allowed American commerce to flow through the Spanish port of New Orleans .
+t, 2496 . Named for Charles Ponzi , the original “ Ponzi schemes ” emerged early in the 1920s to encourage novice investors to divert funds to unfounded ventures , which in reality simply used new investors ’ funds to pay off older investors as the schemes grew in size .
+t, Speculation , where investors purchased into high - risk schemes that they hoped would pay off quickly , became the norm .
+t, Several banks , including deposit institutions that originally avoided investment loans , began to offer easy credit , allowing people to invest , even when they lacked the money to do so .
+t, 2505 . One such incident was the case of the Scottsboro Boys ( [ link ] ) .
+t, In 1931 , nine black boys , who had been riding the rails , were arrested for vagrancy and disorderly conduct after an altercation with some white travelers on the train .
+t, 2517 . On March 12 , the day before the banks were set to reopen , Roosevelt held his first “ fireside chat ” ( [ link ] ) .
+t, In this initial radio address to the American people , he explained what the bank examiners had been doing over the previous week .
+t, 2647 . In this module , we first re - examine how to add velocities and then consider certain aspects of what relative velocity means .
+t, How do we add velocities ?
+t, Velocity is a vector ( it has both magnitude and direction ) ; the rules of vector addition discussed in Vector Addition and Subtraction : Graphical Methods and Vector Addition and Subtraction : Analytical Methods apply to the addition of velocities , just as they do for any other vectors .
+t, In one - dimensional motion , the addition of velocities is simple — they add like ordinary numbers .
+t, 2749 . In such a frame of reference , Newton ’s laws of motion take the form given in Dynamics : Newton 's Laws of Motion The car is a non - inertial frame of reference because it is accelerated to the side .
+t, The force to the left sensed by car passengers is a fictitious force having no physical origin .
+t, There is nothing real pushing them left — the car , as well as the driver , is actually accelerating to the right .
+t, Let us now take a mental ride on a merry - go - round — specifically , a rapidly rotating playground merry - go - round .
+t, 2752 . It is always attractive , and it depends only on the masses involved and the distance between them .
+t, Stated in modern language , Newton ’s universal law of gravitation states that every particle in the universe attracts every other particle with a force along a line joining them .
+t, The force is directly proportional to the product of their masses and inversely proportional to the square of the distance between them .
+t, 3052 . Mutual inductance is the effect of Faraday ’s law of induction for one device upon another , such as the primary coil in transmitting energy to the secondary in a transformer .
+t, See [ link ] , where simple coils induce emfs in one another . These coils can induce emfs in one another like an inefficient transformer .
+t, 3079 . It was later found that these discharges created an invisible , penetrating form of very high frequency electromagnetic radiation .
+t, This radiation was called an X - ray , because its identity and nature were unknown .
+t, 3082 . This is true for waves on guitar strings , for water waves , and for sound waves , where amplitude is proportional to pressure .
+t, In electromagnetic waves , the amplitude is the maximum field strength of the electric and magnetic fields .
+t, ( See [ link ] . )
+t, 3085 . This is because light coming from the fish to us changes direction when it leaves the tank , and in this case , it can travel two different paths to get to our eyes .
+t, The changing of a light ray ’s direction ( loosely called bending ) when it passes through variations in matter is called refraction .
+t, Refraction is responsible for a tremendous range of optical phenomena , from the action of lenses to voice transmission through optical fibers .
+t, Refraction
+t, 3142 . Atoms , molecules , and fundamental electron and proton charges are all examples of physical entities that are quantized — that is , they appear only in certain discrete values and do not have every conceivable value .
+t, Quantized is the opposite of continuous .
+t, 3148 . Gamma rays , a form of nuclear and cosmic EM radiation , can have the highest frequencies and , hence , the highest photon energies in the EM spectrum .
+t, For example , a γ γ size 12 { γ } { } -ray photon with f = 1021
+t, 3259 . Why did n’t it have a counterpart ?
+t, A fourth quark flavor called charm ( c ) was proposed as the counterpart of the strange quark to make things symmetric — there would be two normal quarks ( u and d ) and two exotic quarks ( s and c ) .
+t, Furthermore , at that time only four leptons were known , two normal and two exotic .
+t, 2640 . If an object moves relative to a reference frame ( for example , if a professor moves to the right relative to a white board or a passenger moves toward the rear of an airplane ) , then the object ’s position changes .
+t, This change in position is known as displacement .
+t, The word “ displacement ” implies that an object has moved , or has been displaced .
+t, 2913 . The most obvious method of obtaining better detail is to utilize shorter wavelengths .
+t, Ultraviolet ( UV ) microscopes have been constructed with special lenses that transmit UV rays and utilize photographic or electronic techniques to record images .
+t, The shorter UV wavelengths allow somewhat greater detail to be observed , but drawbacks , such as the hazard of UV to living tissue and the need for special detection devices and lenses ( which tend to be dispersive in the UV ) , severely limit the use of UV microscopes .
+t, 2916 . Another type of microscope utilizing wave interference and differences in phases to enhance contrast is called the phase - contrast microscope .
+t, While its principle is the same as the interference microscope , the phase - contrast microscope is simpler to use and construct .
+t, 3042 . Electric generators induce an emf by rotating a coil in a magnetic field , as briefly discussed in Induced Emf and Magnetic Flux .
+t, We will now explore generators in more detail .
+t, 3057 . ( See [ link ] . )
+t, Although he died young , Maxwell not only formulated a complete electromagnetic theory , represented by Maxwell ’s equations , he also developed the kinetic theory of gases and made significant contributions to the understanding of color vision and the nature of Saturn ’s rings .
+t, 3060 . We can get a good understanding of electromagnetic waves ( EM ) by considering how they are produced .
+t, Whenever a current varies , associated electric and magnetic fields vary , moving out from the source like waves .
+t, 3090 . ( The axis is defined to be a line normal to the lens at its center , as shown in [ link ] . )
+t, Such a lens is called a converging ( or convex ) lens for the converging effect it has on light rays .
+t, An expanded view of the path of one ray through the lens is shown , to illustrate how the ray changes direction both as it enters and as it leaves the lens .
+t, 3102 . Less diverging rays from a distant object can be converged for a clear image .
+t, The distance to the closest object that can be seen clearly is called the near point of the eye ( normally 25 cm ) .
+t, ( a ) The nearsighted ( myopic ) eye converges rays from a distant object in front of the retina ; thus , they are diverging when they strike the retina , producing a blurry image .
+t, This can be caused by the lens of the eye being too powerful or the length of the eye being too great .
+t, 3105 . These are the rainbow of colors produced when white light is dispersed according to different wavelengths .
+t, There are thousands of other hues that we can perceive .
+t, These include brown , teal , gold , pink , and white .
+t, 3144 . An ideal radiator is one that has an emissivity of 1 at all wavelengths and , thus , is jet black .
+t, Ideal radiators are therefore called blackbodies , and their EM radiation is called blackbody radiation .
+t, It was discussed that the total intensity of the radiation varies as T4 , T4 , size 12 { T rSup { size 8 { 4 } } } { } the fourth power of the absolute temperature of the body , and that the peak of the spectrum shifts to shorter wavelengths at higher temperatures .
+t, 3150 . This decelerating process produces radiation that is called bremsstrahlung ( German for braking radiation ) .
+t, The second feature is the existence of sharp peaks in the spectrum ; these are called characteristic x rays , since they are characteristic of the anode material .
+t, Characteristic x rays come from atomic excitations unique to a given type of anode material .
+t, 3159 . There is another form of Heisenberg ’s uncertainty principle for simultaneous measurements of energy and time .
+t, In equation form , ΔE Δt ≥ h 4 π , ΔE Δt ≥ h 4 π , size 12 { ΔE Δt > = { { h } over { 4 π } } } { } where ΔE ΔE size 12 { ΔE } { } is the uncertainty in energy and Δt Δt size 12 { Δt } { } is the uncertainty in time .
+t, 3189 . It was soon evident that Becquerel ’s rays originate in the nuclei of the atoms and have other unique characteristics .
+t, The emission of these rays is called nuclear radioactivity or simply radioactivity .
+t, The rays themselves are called nuclear radiation .
+t, 3294 . We have noted in Particles , Patterns , and Conservation Laws that there are three flavors of neutrinos ( ν e ν e size 12 { ν rSub { size 8 { e } } } { } , v μ v μ size 12 { v rSub { size 8 { μ } } } { } , and v τ v τ size 12 { v rSub { size 8 { τ } } } { } ) and that the weak interaction could change quark flavor .
+t, It should also change neutrino flavor — that is , any type of neutrino could change spontaneously into any other , a process called neutrino oscillations .
+t, However , this can occur only if neutrinos have a mass .
+t, 2681 . There are two major systems of units used in the world : SI units ( also known as the metric system ) and English units ( also known as the customary or imperial system ) .
+t, English units were historically used in nations once ruled by the British Empire and are still widely used in the United States .
+t, 2948 . Drawings using lines to represent electric fields around charged objects are very useful in visualizing field strength and direction .
+t, Since the electric field has both magnitude and direction , it is a vector .
+t, 2966 . In the first stage of the xerography process , the conducting aluminum drum is grounded so that a negative charge is induced under the thin layer of uniformly positively charged selenium .
+t, In the second stage , the surface of the drum is exposed to the image of whatever is to be copied .
+t, 2972 . A capacitor is a device used to store electric charge .
+t, Capacitors have applications ranging from filtering static out of radio reception to energy storage in heart defibrillators .
+t, 3008 . There is a variety of so - called ohmmeters that purport to measure resistance .
+t, What the most common ohmmeters actually do is to apply a voltage to a resistance , measure the current , and calculate the resistance using Ohm ’s law .
+t, 3119 . An interesting thing happens if you pass light through a large number of evenly spaced parallel slits , called a diffraction grating .
+t, An interference pattern is created that is very similar to the one formed by a double slit ( see [ link ] ) .
+t, 3140 . Rest energy is
+t, 3275 . Before that time is the TOE epoch , but we have almost no idea as to the nature of the universe then , since we have no workable theory of quantum gravity .
+t, We call the hypothetical unified force superforce . Now let us imagine starting at TOE and moving forward in time to see what type of universe is created from various events along the way .
+t, As temperatures and average energies decrease with expansion , the universe reaches the stage where average particle separations are large enough to see differences between the strong and electroweak forces ( at about 10 − 35 s 10 − 35 s size 12 { " 10 " rSup { size 8 { - " 35 " } } ` s } { } ) .
+t, 3331 . Some disagree with this theory and argue that genes do not set a limit on a person ’s potential .
+t, Another perspective on the interaction between genes and the environment is the concept of genetic environmental correlation .
+t, Stated simply , our genes influence our environment , and our environment influences the expression of our genes ( [ link ] ) .
+t, 3337 . Learning how the cells and organs ( like the brain ) function , help us understand the biological basis behind human psychology .
+t, The nervous system is composed of two basic cell types : glial cells ( also known as glia ) and neurons .
+t, Glial cells , which outnumber neurons ten to one , are traditionally thought to play a supportive role to neurons , both physically and metabolically .
+t, 3652 . In addition to maintaining balance , the vestibular system collects information critical for controlling movement and the reflexes that move various parts of our bodies to compensate for changes in body position .
+t, Therefore , both proprioception ( perception of body position ) and kinesthesia ( perception of the body ’s movement through space ) interact with information provided by the vestibular system .
+t, 3655 . Another Gestalt principle for organizing sensory stimuli into meaningful perception is proximity .
+t, This principle asserts that things that are close to one another tend to be grouped together , as [ link ] illustrates .
+t, 3664 . They tend to be simpler than instincts , involve the activity of specific body parts and systems ( e.g. , the knee - jerk reflex and the contraction of the pupil in bright light ) , and involve more primitive centers of the central nervous system ( e.g. , the spinal cord and the medulla ) .
+t, In contrast , instincts are innate behaviors that are triggered by a broader range of events , such as aging and the change of seasons .
+t, They are more complex patterns of behavior , involve movement of the organism as a whole ( e.g. , sexual activity and migration ) , and involve higher brain centers .
+t, 3676 . Now that you know how classical conditioning works and have seen several examples , let ’s take a look at some of the general processes involved .
+t, In classical conditioning , the initial period of learning is known as acquisition , when an organism learns to connect a neutral stimulus and an unconditioned stimulus .
+t, During acquisition , the neutral stimulus begins to elicit the conditioned response , and eventually the neutral stimulus becomes a conditioned stimulus capable of eliciting the conditioned response by itself .
+t, 3745 . THEORIES ABOUT MOTIVATION William James ( 1842 – 1910 ) was an important contributor to early research into motivation , and he is often referred to as the father of psychology in the United States .
+t, James theorized that behavior was driven by a number of instincts , which aid survival ( [ link ] ) .
+t, 3751 . Self - efficacy is an individual ’s belief in her own capability to complete a task , which may include a previous successful completion of the exact task or a similar task .
+t, Albert Bandura ( 1994 ) theorized that an individual ’s sense of self - efficacy plays a pivotal role in motivating behavior .
+t, Bandura argues that motivation derives from expectations that we have about the consequences of our behaviors , and ultimately , it is the appreciation of our capacity to engage in a given behavior that will determine what we do and the future goals that we set for ourselves .
+t, 3754 . You use crystallized intelligence all the time in your coursework by demonstrating that you have mastered the information covered in the course .
+t, Fluid intelligence encompasses the ability to see complex relationships and solve problems .
+t, Navigating your way home after being detoured onto an unfamiliar route because of road construction would draw upon your fluid intelligence .
+t, 3763 . Creativity is often assessed as a function of one ’s ability to engage in divergent thinking .
+t, Divergent thinking can be described as thinking “ outside the box ; ” it allows an individual to arrive at unique , multiple solutions to a given problem .
+t, 3805 . The James - Lange theory of emotion asserts that emotions arise from physiological arousal .
+t, Recall what you have learned about the sympathetic nervous system and our fight or flight response when threatened .
+t, 3823 . Sigmund Freud ( 1856 – 1939 ) is probably the most controversial and misunderstood psychological theorist .
+t, When reading Freud ’s theories , it is important to remember that he was a medical doctor , not a psychologist .
+t, 3826 . Through social interactions with parents and others in a child ’s environment , the ego and superego develop to help control the i d .
+t, The superego develops as a child interacts with others , learning the social rules for right and wrong .
+t, The superego acts as our conscience ; it is our moral compass that tells us how we should behave .
+t, 3832 . In the above example , Joe made fun of a homosexual peer while himself being attracted to males .
+t, In regression , an individual acts much younger than their age .
+t, For example , a four - year - old child who resents the arrival of a newborn sibling may act like a baby and revert to drinking out of a bottle .
+t, 3922 . They view development as a lifelong process that can be studied scientifically across three developmental domains — physical , cognitive , and psychosocial development .
+t, Physical development involves growth and changes in the body and brain , the senses , motor skills , and health and wellness .
+t, Cognitive development involves learning , attention , memory , language , thinking , reasoning , and creativity .
+t, 3940 . When children learn new information , they adjust their schemata through two processes : assimilation and accommodation .
+t, First , they assimilate new information or experiences in terms of their current schemata : assimilation is when they take in information that is comparable to what they already know .
+t, Accommodation describes when they change their schemata based on new information .
+t, 4078 . The branch of I - O psychology known as industrial psychology focuses on identifying and matching persons to tasks within an organization .
+t, This involves job analysis , which means accurately describing the task or job .
+t, Then , organizations must identify the characteristics of applicants for a match to the job analysis .
+t, 4114 . The scientific study of how stress and other psychological factors impact health falls within the realm of health psychology , a subfield of psychology devoted to understanding the importance of psychological influences on health , illness , and how people respond when they become ill ( Taylor , 1999 ) .
+t, Health psychology emerged as a discipline in the 1970s , a time during which there was increasing awareness of the role behavioral and lifestyle factors play in the development of illnesses and diseases ( Straub , 2007 ) .
+t, 4249 . Bipolar and related disorders are a group of disorders in which mania is the defining feature .
+t, Mania is a state of extreme elation and agitation .
+t, When people experience mania , they may become extremely talkative , behave recklessly , or attempt to take on many tasks simultaneously .
+t, 3618 . An example of a monocular cue would be what is known as linear perspective .
+t, Linear perspective refers to the fact that we perceive depth when we see two parallel lines that seem to converge in an image ( [ link ] ) .
+t, Some other monocular depth cues are interposition , the partial overlap of objects , and the relative size and closeness of images to the horizon .
+t, 3798 . The correlations of IQs of unrelated versus related persons reared apart or together suggest a genetic component to intelligence .
+t, The bottom is labeled “ Percent IQ Correlation ” and the left side is labeled “ Relationship . ”
+t, The percent IQ Correlation for relationships where no genes are shared , including adoptive parent - child pairs , similarly aged unrelated children raised together , and adoptive siblings are around 21 percent , 30 percent , and 32 percent , respectively .
+t, 3801 . Dyslexia is the most common learning disability in children .
+t, An individual with dyslexia exhibits an inability to correctly process letters .
+t, The neurological mechanism for sound processing does not work properly in someone with dyslexia .
+t, 3804 . Our emotional states are combinations of physiological arousal , psychological appraisal , and subjective experiences .
+t, Together , these are known as the components of emotion .
+t, These appraisals are informed by our experiences , backgrounds , and cultures .
+t, 3831 . Another defense mechanism is reaction formation , in which someone expresses feelings , thoughts , and behaviors opposite to their inclinations .
+t, In the above example , Joe made fun of a homosexual peer while himself being attracted to males .
+t, 4221 . Depersonalization is defined as feelings of “ unreality or detachment from , or unfamiliarity with , one ’s whole self or from aspects of the self ” ( APA , 2013 , p. 302 ) .
+t, Individuals who experience depersonalization might believe their thoughts and feelings are not their own ; they may feel robotic as though they lack control over their movements and speech ; they may experience a distorted sense of time and , in extreme cases , they may sense an “ out - of - body ” experience in which they see themselves from the vantage point of another person .
+t, Derealization is conceptualized as a sense of “ unreality or detachment from , or unfamiliarity with , the world , be it individuals , inanimate objects , or all surroundings ” ( APA , 2013 , p. 303 ) .
+t, 4227 . A person with schizophrenia may believe that his mother is plotting with the FBI to poison his coffee , or that his neighbor is an enemy spy who wants to kill him .
+t, These kinds of delusions are known as paranoid delusions , which involve the ( false ) belief that other people or agencies are plotting to harm the person .
+t, People with schizophrenia also may hold grandiose delusions , beliefs that one holds special power , unique knowledge , or is extremely important .
+t, 4266 . Rather , obsessions are characterized as persistent , unintentional , and unwanted thoughts and urges that are highly intrusive , unpleasant , and distressing ( APA , 2013 ) .
+t, Common obsessions include concerns about germs and contamination , doubts ( “ Did I turn the water off ? ” ) , order and symmetry ( “ I need all the spoons in the tray to be arranged a certain way ” ) , and urges that are aggressive or lustful .
+t, Usually , the person knows that such thoughts and urges are irrational and thus tries to suppress or ignore them , but has an extremely difficult time doing so .
+t, 3647 . In addition to the receptors located in the skin , there are also a number of free nerve endings that serve sensory functions .
+t, These nerve endings respond to a variety of different types of touch - related stimuli and serve as sensory receptors for both thermoception ( temperature perception ) and nociception ( a signal indicating potential harm and maybe pain ) ( Garland , 2012 ; Petho & Reeh , 2012 ; Spray , 1986 ) .
+t, Sensory information collected from the receptors and free nerve endings travels up the spinal cord and is transmitted to regions of the medulla , thalamus , and ultimately to somatosensory cortex , which is located in the postcentral gyrus of the parietal lobe .
+t, 3743 . What motivations underlie our behaviors ?
+t, Motivation describes the wants or needs that direct behavior toward a goal .
+t, In addition to biological motives , motivations can be intrinsic ( arising from internal factors ) or extrinsic ( arising from external factors ) ( [ link ] ) .
+t, 3959 . Research suggests that they do not .
+t, People from an individualistic culture , that is , a culture that focuses on individual achievement and autonomy , have the greatest tendency to commit the fundamental attribution error .
+t, Individualistic cultures , which tend to be found in western countries such as the United States , Canada , and the United Kingdom , promote a focus on the individual .
+t, 3983 . Finally , children with disorganized attachment behaved oddly in the Strange Situation .
+t, They freeze , run around the room in an erratic manner , or try to run away when the caregiver returns ( Main & Solomon , 1990 ) .
+t, 3995 . The next stage of development is emerging adulthood .
+t, This is a relatively newly defined period of lifespan development spanning from 18 years old to the mid-20s , characterized as an in - between time where identity exploration is focused on work and love .
+t, 4067 . Do you voluntarily help others ?
+t, Voluntary behavior with the intent to help other people is called prosocial behavior .
+t, Why do people help other people ?
+t, 4259 . Cognitive theories of depression take the view that depression is triggered by negative thoughts , interpretations , self - evaluations , and expectations ( Joormann , 2009 ) .
+t, These diathesis - stress models propose that depression is triggered by a “ cognitive vulnerability ” ( negative and maladaptive thinking ) and by precipitating stressful life events ( Gotlib & Joormann , 2010 ) .
+t, Perhaps the most well - known cognitive theory of depression was developed in the 1960s by psychiatrist Aaron Beck , based on clinical observations and supported by research ( Beck , 2008 ) .
+t, 4280 . As is the case with other anxiety disorders , the panic attacks can not result from the physiological effects of drugs and other substances , a medical condition , or another mental disorder .
+t, A panic attack is defined as a period of extreme fear or discomfort that develops abruptly and reaches a peak within 10 minutes .
+t, Its symptoms include accelerated heart rate , sweating , trembling , choking sensations , hot flashes or chills , dizziness or lightheadedness , fears of losing control or going crazy , and fears of dying ( APA , 2013 ) .
+t, 4283 . Alex suffers from generalized anxiety disorder : a relatively continuous state of excessive , uncontrollable , and pointless worry and apprehension .
+t, People with generalized anxiety disorder often worry about routine , everyday things , even though their concerns are unjustified ( [ link ] ) .
+t, 4326 . A good model to start with in economics is the circular flow diagram , which is shown in [ link ] .
+t, It pictures the economy as consisting of two groups — households and firms — that interact in two markets : the goods and services market in which firms sell and households buy and the labor market in which households sell labor to business firms or other employees .
+t, 4341 . The budget constraint framework helps to emphasize that most choices in the real world are not about getting all of one thing or all of another ; that is , they are not about choosing either the point at one end of the budget constraint or else the point all the way at the other end .
+t, Instead , most choices involve marginal analysis , which means comparing the benefits and costs of choosing a little more or a little less of a good .
+t, 4347 . The budget constraints presented earlier in this chapter , showing individual choices about what quantities of goods to consume , were all straight lines .
+t, The reason for these straight lines was that the slope of the budget constraint was determined by relative prices of the two goods in the consumption budget constraint .
+t, However , the production possibilities frontier for healthcare and education was drawn as a curved line .
+t, 4359 . Consumers who are looking for the best deals will encourage businesses to offer goods and services that meet their needs .
+t, Adam Smith , writing in The Wealth of Nations , christened this property the invisible hand .
+t, In describing how consumers and producers interact in a market economy , Smith wrote :
+t, 4398 . A firm can build new factories and purchase new machinery , or it can close existing facilities .
+t, In planning for the long run , the firm will compare alternative production technologies ( or processes ) .
+t, 4641 . Redistribution means taking income from those with higher incomes and providing income to those with lower incomes .
+t, Earlier in this chapter , we considered some of the key government policies that provide support for the poor : the welfare program TANF , the earned income tax credit , SNAP , and Medicaid .
+t, 5226 . In the early 1990s , the United States was negotiating the North American Free Trade Agreement ( NAFTA ) with Mexico , an agreement that reduced tariffs , import quotas , and nontariff barriers to trade between the United States , Mexico , and Canada .
+t, H. Ross Perot , a 1992 candidate for U.S. president , claimed , in prominent campaign arguments , that if the United States expanded trade with Mexico , there would be a “ giant sucking sound ” as U.S. employers relocated to Mexico to take advantage of lower wages .
+t, 5253 . Growth rates are frequently encountered in real world economics .
+t, A growth rate is simply the percentage change in some quantity .
+t, It could be your income .
+t, 5277 . Each person who receives an additional dollar faces this choice .
+t, The marginal propensity to consume ( MPC ) , is the share of the additional dollar of income a person decides to devote to consumption expenditures .
+t, The marginal propensity to save ( MPS ) is the share of the additional dollar a person decides to save .
+t, 4637 . One set of explanations focuses on the changing shape of American households ; the other focuses on greater inequality of wages , what some economists call “ winner take all ” labor markets .
+t, We will begin with how we measure inequality , and then consider the explanations for growing inequality in the United States .
+t, Measuring Income Distribution by Quintiles
+t, One common way of measuring income inequality is to rank all households by income , from lowest to highest , and then to divide all households into five groups with equal numbers of people , known as quintiles .
+t, This calculation allows for measuring the distribution of income among the five groups compared to the total .
+t, 4655 . [ link ] shows the average wage of black workers as a ratio of the average wage of white workers and the average wage of female workers as a ratio of the average wage of male workers .
+t, Research by the economists Francine Blau and Laurence Kahn shows that the gap between the earnings of women and men did not move much in the 1970s , but has declined since the 1980s .
+t, According to the U.S. Census , the gap between the earnings of blacks and whites diminished in the 1970s , but has not changed in 50 years .
+t, 4673 . There is a lot of human behavior out there that mainstream economists have tended to call “ irrational ” since it is consistently at odds with economists ’ utility maximizing models .
+t, The typical response is for economists to brush these behaviors aside and call them “ anomalies ” or unexplained quirks .
+t, 4700 . The U.S. insurance industry is primarily regulated at the state level ; indeed , since 1871 there has been a National Association of Insurance Commissioners that brings together these state regulators to exchange information and strategies .
+t, The state insurance regulators typically attempt to accomplish two things : to keep the price of insurance low and to make sure that everyone has insurance .
+t, 4709 . A bond is a financial contract : a borrower agrees to repay the amount that was borrowed and also a rate of interest over a period of time in the future .
+t, A corporate bond is issued by firms , but bonds are also issued by various levels of government .
+t, For example , a municipal bond is issued by cities , a state bond by U.S. states , and a Treasury bond by the federal government through the U.S .
+t, 4784 . The process by which capital ages and loses value is called depreciation .
+t, The NNP can be further subdivided into national income , which includes all income to businesses and individuals , and personal income , which includes only income to people .
+t, 4799 . “ Standard of living ” is a broader term than GDP .
+t, While GDP focuses on production that is bought and sold in markets , standard of living includes all elements that affect people ’s well - being , whether they are bought and sold in the market or not .
+t, To illuminate the gap between GDP and standard of living , it is useful to spell out some things that GDP does not cover that are clearly relevant to standard of living .
+t, 4808 . The first determinant of labor productivity is human capital .
+t, Human capital is the accumulated knowledge ( from education and experience ) , skills , and expertise that the average worker in an economy possesses .
+t, Typically the higher the average level of education in an economy , the higher the accumulated human capital and the higher the labor productivity .
+t, 4408 . An example from the market for gasoline can be shown in the form of a table or a graph .
+t, A table that shows the quantity demanded at each price , such as [ link ] , is called a demand schedule .
+t, Price in this case is measured in dollars per gallon of gasoline .
+t, 4639 . The most plausible explanation is that while the explosion in new information and communications technologies over the last several decades has helped many workers to become more productive , the benefits have been especially great for high - skilled workers like top business managers , consultants , and design professionals .
+t, The new technologies have also helped to encourage globalization , the remarkable increase in international trade over the last few decades , by making it more possible to learn about and coordinate economic interactions all around the world .
+t, In turn , the rising impact of foreign trade in the U.S. economy has opened up greater opportunities for high - skilled workers to sell their services around the world .
+t, 4660 . The Age Discrimination in Employment Act of 1967 prohibited discrimination on the basis of age against individuals who are 40 years of age or older .
+t, The Civil Rights Act of 1991 provides monetary damages in cases of intentional employment discrimination .
+t, The Pregnancy Discrimination Act of 1978 was aimed at prohibiting discrimination against women in the workplace who are planning to get pregnant , are pregnant , or are returning after pregnancy .
+t, 4699 . Rather than face such a situation of adverse selection , the insurance company may decide not to sell insurance in this market at all .
+t, If an insurance market is to exist , then one of two things must happen .
+t, 4747 . Indeed , these reasons are probably tied together , since people who do not believe their vote matters will not bother to become informed or care who wins .
+t, Economists have suggested why a utility - maximizing person might rationally decide not to vote or not to become informed about the election .
+t, While a few elections in very small towns may be decided by a single vote , in most elections of any size , the margin of victory is measured in hundreds , thousands , or even millions of votes .
+t, 4756 . In the battle over passage of the 2010 Affordable Care Act ( ACA ) , which became known as “ Obamacare , ” there was heavy lobbying on all sides by insurance companies and pharmaceutical companies .
+t, However , a lobby group , Health Care for America Now ( HCAN ) , was financed by labor unions and community groups and was organized to offset corporate lobbying .
+t, 4774 . The gap between exports and imports is called the trade balance .
+t, If a country ’s exports are larger than its imports , then a country is said to have a trade surplus .
+t, In the United States , exports typically exceeded imports in the 1960s and 1970s , as shown in [ link ] ( b ) .
+t, 4780 . To avoid this problem , which would overstate the size of the economy considerably , government statisticians count just the value of final goods and services in the chain of production that are sold for consumption , investment , government , and trade purposes .
+t, Intermediate goods , which are goods that go into the production of other goods , are excluded from GDP calculations .
+t, From the example above , only the value of the Ford truck will be counted .
+t, 4936 . The AD / AS model can convey a number of interlocking relationships between the four macroeconomic goals of growth , unemployment , inflation , and a sustainable balance of trade .
+t, Moreover , the AD / AS framework is flexible enough to accommodate both the Keynes ’ law approach that focuses on aggregate demand and the short run , while also including the Say ’s law approach that focuses on aggregate supply and the long run .
+t, 4951 . What Determines Net Exports?Recall that exports are products produced domestically and sold abroad while imports are products produced abroad but purchased domestically .
+t, Since aggregate demand is defined as spending on domestic goods and services , export expenditures add to AD , while import expenditures subtract from AD .
+t, 5101 . First , PPP exchange rates are often used for international comparison of GDP and other economic statistics .
+t, Imagine that you are preparing a table showing the size of GDP in many countries in several recent years , and for ease of comparison , you are converting all the values into U.S. dollars .
+t, When you insert the value for Japan , you need to use a yen / dollar exchange rate .
+t, 5131 . [ link ] also shows the patterns of taxation for the main categories of taxes levied by the federal government : individual income taxes , corporate income taxes , and social insurance and retirement receipts .
+t, When most people think of taxes levied by the federal government , the first tax that comes to mind is the individual income tax that is due every year on April 15 ( or the first business day after ) .
+t, The personal income tax is the largest single source of federal government revenue , but it still represents less than half of federal tax revenue .
+t, The second largest source of federal revenue is the payroll tax ( captured in social insurance and retirement receipts ) , which provides funds for Social Security and Medicare .
+t, 5143 . [ link ] illustrates the process by using an aggregate demand / aggregate supply diagram in a growing economy .
+t, The original equilibrium occurs at E0 , the intersection of aggregate demand curve AD0 and aggregate supply curve SRAS0 , at an output level of 200 and a price level of 90.One year later , aggregate supply has shifted to the right to SRAS1 in the process of long - term economic growth , and aggregate demand has also shifted to the right to AD1 , keeping the economy operating at the new level of potential GDP .
+t, The new equilibrium ( E1 ) is an output level of 206 and a price level of 92 .
+t, 5146 . Each year , the nonpartisan Congressional Budget Office ( CBO ) calculates the standardized employment budget — that is , what the budget deficit or surplus would be if the economy were producing at potential GDP , where people who look for work were finding jobs in a reasonable period of time and businesses were making normal profits , with the result that both workers and businesses would be earning more and paying more taxes .
+t, In effect , the standardized employment deficit eliminates the impact of the automatic stabilizers .
+t, 5206 . Specialization in the world economy can be very finely split .
+t, In fact , recent years have seen a trend in international trade called splitting up the value chain .
+t, The value chain describes how a good is produced in stages .
+t, 5209 . For example , a single large automobile factory could probably supply all the cars purchased in a smaller economy like the United Kingdom or Belgium in a given year .
+t, However , if a country has only one or two large factories producing cars , and no international trade , then consumers in that country would have relatively little choice between kinds of cars ( other than the color of the paint and other nonessential options ) .
+t, Little or no competition will exist between different car manufacturers .
+t, 5310 . Interactionist sociologist Clark McPhail ( 1991 ) developed assembling perspective , another system for understanding collective behavior that credited individuals in crowds as rational beings .
+t, Unlike previous theories , this theory refocuses attention from collective behavior to collective action .
+t, 5316 . The latter is still in existence despite government involvement that led to the deaths of numerous Branch Davidian members in 1993 .
+t, Alternative movements are focused on self - improvement and limited , specific changes to individual beliefs and behavior .
+t, These include trends like transcendental meditation or a macrobiotic diet .
+t, 5607 . We see the emergence of global assembly lines , where products are assembled over the course of several international transactions .
+t, For instance , Apple designs its next - generation Mac prototype in the United States , components are made in various peripheral nations , they are then shipped to another peripheral nation such as Malaysia for assembly , and tech support is outsourced to India .
+t, Globalization has also led to the development of global commodity chains , where internationally integrated economic links connect workers and corporations for the purpose of manufacture and marketing ( Plahe 2005 ) .
+t, For example , in maquiladoras , mostly found in northern Mexico , workers may sew imported precut pieces of fabric into garments . Globalization also brings an international division of labor , in which comparatively wealthy workers from core nations compete with the low - wage labor pool of peripheral and semi - peripheral nations .
+t, 5736 . Swedish sociologist Lars Tornstam developed a symbolic interactionist theory called gerotranscendence : the idea that as people age , they transcend the limited views of life they held in earlier times .
+t, Tornstam believes that throughout the aging process , the elderly become less self - centered and feel more peaceful and connected to the natural world .
+t, 5742 . One Partner or Many?People in the United States typically equate marriage with monogamy , when someone is married to only one person at a time .
+t, In many countries and cultures around the world , however , having one spouse is not the only form of marriage .
+t, 5414 . There are two ways to come across an innovative object or idea : discover it or invent it .
+t, Discoveries make known previously unknown but existing aspects of reality .
+t, In 1610 , when Galileo looked through his telescope and discovered Saturn , the planet was already there , but until then , no one had known about it .
+t, 5417 . As a result , world markets became dominated by multinational companies in the 1980s , a new state of affairs at that time .
+t, We have since come to refer to this integration of international trade and finance markets as globalization .
+t, Increased communications and air travel have further opened doors for international business relations , facilitating the flow not only of goods but also of information and people as well ( Scheuerman 2014 ( revised ) ) .
+t, 5426 . Postindustrial Society
+t, Information societies , sometimes known as postindustrial or digital societies , are a recent development .
+t, Unlike industrial societies that are rooted in the production of material goods , information societies are based on the production of information and services .
+t, Digital technology is the steam engine of information societies , and computer moguls such as Steve Jobs and Bill Gates are its John D. Rockefellers and Cornelius Vanderbilts .
+t, 5630 . Though social conformities still exist that encourage people to choose partners within their own class , people are not as pressured to choose marriage partners based solely on those elements .
+t, Marriage to a partner from the same social background is an endogamous union .
+t, 5663 . Just as in the pre - Civil War United States , these humans are at the mercy of their employers .
+t, Chattel slavery , the form of slavery once practiced in the American South , occurs when one person owns another as property .
+t, Child slavery , which may include child prostitution , is a form of chattel slavery .
+t, 5693 . It is thought that her secretary supported this practice by suggestions to Ginsberg that “ those nine men ” ( the other Supreme Court justices ) , “ hear that word and their first association is not the way you want them to be thinking ” ( Case 1995 ) .
+t, This anecdote reveals that both sex and gender are actually socially defined variables whose definitions change over time .
+t, Sexual Orientation
+t, A person ’s sexual orientation is his or her physical , mental , emotional , and sexual attraction to a particular sex ( male or female ) .
+t, Sexual orientation is typically divided into four categories : heterosexuality , the attraction to individuals of the other sex ; homosexuality , the attraction to individuals of the same sex ; bisexuality , the attraction to individuals of either sex ; and asexuality , no attraction to either sex .
+t, 5317 . These include trends like transcendental meditation or a macrobiotic diet .
+t, Resistance movements seek to prevent or undo change to the social structure .
+t, The Ku Klux Klan , the Minutemen , and pro - life movements fall into this category .
+t, 5491 . Mass media distribute impersonal information to a wide audience , via television , newspapers , radio , and the Internet .
+t, With the average person spending over four hours a day in front of the television ( and children averaging even more screen time ) , media greatly influences social norms ( Roberts , Foehr , and Rideout 2005 ) .
+t, 5539 . The student is reprimanded frequently by teachers and school staff , and soon enough , he develops a reputation as a “ troublemaker . ”
+t, As a result , the student starts acting out even more and breaking more rules ; he has adopted the “ troublemaker ” label and embraced this deviant identity .
+t, Secondary deviance can be so strong that it bestows a master status on an individual .
+t, A master status is a label that describes the chief characteristic of an individual .
+t, 5542 . In hindsight , we recognize that the laws that deemed many of their actions crimes — for instance , Rosa Parks taking a seat in the “ whites only ” section of the bus — were inconsistent with social equality .
+t, As you have learned , all societies have informal and formal ways of maintaining social control .
+t, Within these systems of norms , societies have legal codes that maintain formal social control through laws , which are rules adopted and enforced by a political authority .
+t, Those who violate these rules incur negative formal sanctions .
+t, 5713 . There are several reasons why the United States is graying so rapidly .
+t, One of these is life expectancy : the average number of years a person born today may expect to live .
+t, When we review Census Bureau statistics grouping the elderly by age , it is clear that in the United States , at least , we are living longer .
+t, 5764 . A sect is a small and relatively new group .
+t, Most of the well - known Christian denominations in the United States today began as sects .
+t, 5791 . A more modern form of traditional authority is patrimonialism , which is traditional domination facilitated by an administration and military that are purely personal instruments of the master ( Eisenberg 1998 ) .
+t, In this form of authority , all officials are personal favorites appointed by the ruler .
+t, 5844 . His mother ’s complaints to the New York City Housing Authority were largely ignored .
+t, In high school , Torres decided to become a lawyer , participated in mock trials , and met a young and aspiring local politician named James Vacca .
+t, After graduation , he volunteered to campaign for Vacca in his run for a seat on the City Council .
+t, 5847 . While some Americans disapprove of partisanship in general , others are put off by the ideology — established beliefs and ideals that help shape political policy — of one of the major parties .
+t, This is especially true among the young .
+t, 5856 . For instance , Virginia established its House of Burgesses in 1619 .
+t, Upon their arrival in North America a year later , the English Separatists who settled the Plymouth Colony , commonly known as the Pilgrims , promptly authored the Mayflower Compact , an agreement to govern themselves according to the laws created by the male voters of the colony .
+t, Nathaniel Philbrick .
+t, 2006 .
+t, 5961 . When economic times are good , such grants help states , cities , municipalities , and townships carry out their regular functions .
+t, However , during hard economic times , such as the Great Recession of 2007 – 2009 , intergovernmental transfers provide much - needed fiscal relief as the revenue streams of state and local governments dry up .
+t, During the Great Recession , tax receipts dropped as business activities slowed , consumer spending dropped , and family incomes decreased due to layoffs or work - hour reductions .
+t, 5988 . In the late 1800s , some states attempted to regulate working conditions .
+t, For example , New York State passed the Bakeshop Act in 1897 , which prohibited bakery employees from working more than sixty hours in a week .
+t, In Lochner v. New York , the Supreme Court ruled this state regulation that capped work hours unconstitutional , on the grounds that it violated the due process clause of the Fourteenth Amendment .
+t, Lochner v. New York , 198 U.S. 45 ( 1905 ) .
+t, In other words , the right to sell and buy labor is a “ liberty of the individual ” safeguarded by the Constitution , the court asserted .
+t, 6006 . The election of Ronald Reagan heralded the advent of a “ devolution revolution ” in U.S. federalism , in which the president pledged to return authority to the states according to the Constitution .
+t, In the Omnibus Budget Reconciliation Act of 1981 , congressional leaders together with President Reagan consolidated numerous federal grant programs related to social welfare and reformulated them in order to give state and local administrators greater discretion in using federal funds .
+t, Allen Schick .
+t, 2007 .
+t, 6030 . In 2012 , in Arizona v. United States , the Supreme Court affirmed federal supremacy on immigration .
+t, Arizona v. United States , 567 U.S. _ _ ( 2012 ) .
+t, The court struck down three of the four central provisions of the Arizona law — namely , those allowing police officers to arrest an undocumented immigrant without a warrant if they had probable cause to think he or she had committed a crime that could lead to deportation , making it a crime to seek a job without proper immigration papers , and making it a crime to be in Arizona without valid immigration papers .
+t, The court upheld the “ show me your papers ” provision , which authorizes police officers to check the immigration status of anyone they stop or arrest who they suspect is an illegal immigrant .
+t, Arizona v. United States , 567 U.S. _ _ ( 2012 ) .
+t, However , in letting this provision stand , the court warned Arizona and other states with similar laws that they could face civil rights lawsuits if police officers applied it based on racial profiling .
+t, Julia Preston , “ Arizona Ruling Only a Narrow Opening for Other States , ” New York Times , 25 June 2012 .
+t, All in all , Justice Anthony Kennedy ’s opinion embraced an expansive view of the U.S. government ’s authority to regulate immigration and aliens , describing it as broad and undoubted .
+t, 6072 . Representative John Bingham ( R - OH ) ( a ) is considered the author of the Fourteenth Amendment , adopted on July 9 , 1868 .
+t, Influenced by his mentor , Salmon P. Chase , Bingham was a strong supporter of the antislavery cause ; after Chase lost the Republican presidential nomination to Abraham Lincoln ( b ) , Bingham became one of the president ’s most ardent supporters .
+t, 6078 . For example , under the Fifth Amendment a person can be tried in federal court for a felony — a serious crime — only after a grand jury issues an indictment indicating that it is reasonable to try the person for the crime in question .
+t, ( A grand jury is a group of citizens charged with deciding whether there is enough evidence of a crime to prosecute someone . )
+t, 6195 . Direct action also took such forms as the sit - in campaigns to desegregate lunch counters that began in Greensboro , North Carolina , in 1960 , and the 1961 Freedom Rides in which black and white volunteers rode buses and trains through the South to enforce a 1946 Supreme Court decision that desegregated interstate transportation ( Morgan v. Virginia ) .
+t, Morgan v. Virginia , 328 U.S. 373 ( 1946 ) .
+t, While such focused campaigns could be effective , they often had little impact in places where they were not replicated .
+t, In addition , some of the campaigns led to violence against both the campaigns ’ leaders and ordinary people ; Rosa Parks , a longtime NAACP member and graduate of the Highlander Folk School for civil rights activists , whose actions had begun the Montgomery boycott , received death threats , E. D. Nixon ’s home was bombed , and the Freedom Riders were attacked in Alabama .
+t, See Lynne Olson . 2002 .
+t, 6228 . These include laws mandating equal pay for equal work .
+t, According to the doctrine of comparable worth , people should be compensated equally for work requiring comparable skills , responsibilities , and effort .
+t, Thus , even though women are underrepresented in certain fields , they should receive the same wages as men if performing jobs requiring the same level of accountability , knowledge , skills , and/or working conditions , even though the specific job may be different .
+t, 6246 . The current relationship between the U.S. government and Native American tribes was established by the Indian Self - Determination and Education Assistance Act of 1975 .
+t, Under the act , tribes assumed control of programs that had formerly been controlled by the BIA , such as education and resource management , and the federal government provided the funding .
+t, Public Law 93 – 638 : Indian Self - Determination and Education Assistance Act , as Amended .
+t, Many tribes have also used their new freedom from government control to legalize gambling and to open casinos on their reservations .
+t, 6258 . Political candidates speak at religious centers and institutions in an effort to meet like - minded voters .
+t, For example , Senator Ted Cruz ( R - TX ) announced his 2016 presidential bid at Liberty University , a fundamentalist Christian institution .
+t, This university matched Cruz ’s conservative and religious ideological leanings and was intended to give him a boost from the faith - based community .
+t, 6264 . Conservative governments attempt to hold tight to the traditions of a nation by balancing individual rights with the good of the community .
+t, Traditional conservatism supports the authority of the monarchy and the church , believing government provides the rule of law and maintains a society that is safe and organized .
+t, Modern conservatism differs from traditional conservatism in assuming elected government will guard individual liberties and provide laws .
+t, 6294 . Important political opinion leaders , or political elites , also shape public opinion , usually by serving as short - term cues that help voters pay closer attention to a political debate and make decisions about it .
+t, Through a talk program or opinion column , the elite commentator tells people when and how to react to a current problem or issue .
+t, 6438 . To maintain a license , stations are required to meet a number of criteria .
+t, The equal - time rule , for instance , states that registered candidates running for office must be given equal opportunities for airtime and advertisements at non - cable television and radio stations beginning forty - five days before a primary election and sixty days before a general election .
+t, Should WBNS in Columbus , Ohio , agree to sell Senator Marco Rubio thirty seconds of airtime for a presidential campaign commercial , the station must also sell all other candidates in that race thirty seconds of airtime at the same price .
+t, 6444 . While some documents may be classified due to national or state security , governments are encouraged to limit the over - classification of documents .
+t, The primary legal example for sunshine laws is the Freedom of Information Act ( FOIA ) , passed in 1966 and signed by President Lyndon B. Johnson .
+t, The act requires the executive branch of the U.S. government to provide information requested by citizens and was intended to increase openness in the executive branch , which had been criticized for hiding information .
+t, 6516 . The Other Founders : Anti - Federalism and the Dissenting Tradition in America . Chapel Hill , NC : UNC Press , 11 .
+t, The Federalist faction , led by Alexander Hamilton , largely dominated the government in the years immediately after the Constitution was ratified .
+t, Included in the Federalists was President George Washington , who was initially against the existence of parties in the United States .
+t, 6525 . The Democratic Party emphasized personal politics , which focused on building direct relationships with voters rather than on promoting specific issues .
+t, This party dominated national politics from Andrew Jackson ’s presidential victory in 1828 until the mid-1850s , when regional tensions began to threaten the nation ’s very existence .
+t, 6597 . The twin disasters of the Great Depression in the 1930s and World War II , which lasted until the mid-1940s , provided President Franklin D. Roosevelt with a powerful platform from which to expand presidential power .
+t, His popularity and his ability to be elected four times allowed him to greatly overshadow Congress .
+t, 6654 . Jefferson was elected president in the House of Representatives on the thirty - sixth ballot .
+t, These controversies led to the proposal and ratification of the Twelfth Amendment , which couples a particular presidential candidate with that candidate ’s running mate in a unified ticket .
+t, Tadahisa Kuroda . 1994 .
+t, 6723 . The increasing public political role of the first lady continued in the 1980s with Nancy Reagan ’s “ Just Say No ” antidrug campaign and in the early 1990s with Barbara Bush ’s efforts on behalf of literacy .
+t, The public role of the first lady reach a new level with Hillary Clinton in the 1990s when her husband put her in charge of his efforts to achieve health care reform , a controversial decision that did not meet with political success .
+t, 6738 . While domestic policymaking requires far more give - and - take and a fair share of cajoling and collaboration , national emergencies and war offer presidents far more opportunity to act vigorously and at times independently .
+t, This phenomenon often produces the rally around the flag effect , in which presidential popularity spikes during international crises .
+t, A president must always be aware that politics , according to Otto von Bismarck , is the art of the possible , even as it is his or her duty to increase what might be possible by persuading both members of Congress and the general public of what needs to be done .
+t, 6741 . The Marriage Equality Act vote in Albany , New York , on July 24 , 2011 ( left ) , was just one of a number of cases testing the constitutionality of both federal and state law that ultimately led the Supreme Court to take on the controversial issue of same - sex marriage .
+t, In the years leading up to the 2015 ruling that same - sex couples have a right to marry in all fifty states , marriage equality had become a key civil rights issue for the LGBT community , as demonstrated at Seattle ’s 2012 Pride parade ( right ) .
+t, 6765 . But the Supreme Court has ruled in favor of all these issues and others .
+t, Even without unanimous agreement among citizens , Supreme Court decisions have made all these possibilities a reality , a particularly important one for the individuals who become the beneficiaries ( [ link ] ) .
+t, 6777 . If a particular issue or topic is not taken up in one place , it may be handled in another , giving rise to many different opportunities for an interest to be heard somewhere across the nation .
+t, In their research , Paul Brace and Melinda Hall found that state courts are important instruments of democracy because they provide different alternatives and varying arenas for political access .
+t, They wrote , “ Regarding courts , one size does not fit all , and the republic has survived in part because federalism allows these critical variations . ”
+t, Paul R. Brace and Melinda Gann Hall .
+t, 6792 . When a vacancy occurs in a lower federal court , by custom , the president consults with that state ’s U.S. senators before making a nomination .
+t, Through such senatorial courtesy , senators exert considerable influence on the selection of judges in their state , especially those senators who share a party affiliation with the president .
+t, In many cases , a senator can block a proposed nominee just by voicing his or her opposition .
+t, 6822 . Once a case has been placed on the docket , briefs , or short arguments explaining each party ’s view of the case , must be submitted — first by the petitioner putting forth his or her case , then by the respondent .
+t, After initial briefs have been filed , both parties may file subsequent briefs in response to the first .
+t, 6825 . The justices consider oral arguments not as a forum for a lawyer to restate the merits of his or her case as written in the briefs , but as an opportunity to get answers to any questions they may have .
+t, “Supreme Court Procedures . ” United States Courts .
+t, http://www.uscourts.gov/about-federal-courts/educational-resources/about-educational-outreach/activity-resources/supreme-1 ( March 1 , 2016 ) .
+t, When the United States is party to a case , the solicitor general ( or one of his or her assistants ) will argue the government ’s position ; even in other cases , the solicitor general may still be given time to express the government ’s position on the dispute .
+t, 6831 . A justice ’s decisions are influenced by how he or she defines his role as a jurist , with some justices believing strongly in judicial activism , or the need to defend individual rights and liberties , and they aim to stop actions and laws by other branches of government that they see as infringing on these rights .
+t, A judge or justice who views the role with an activist lens is more likely to use his or her judicial power to broaden personal liberty , justice , and equality .
+t, 6843 . “ Radio and Television Address to the American People on the Situation in Little Rock . ”
+t, Public Papers of the Presidents of the United States : Eisenhower , Dwight D. , The American Presidency Project .
+t, September 24 , 1957 . http://www.presidency.ucsb.edu / ws/?pid=10909 .
+t, Executive Order 10730 nationalized the Arkansas National Guard to enforce desegregation because the governor refused to use the state National Guard troops to protect the black students trying to enter the school ( [ link ] ) .
+t, 6858 . Through their own constitutions and statutes , states decide what to require of local jurisdictions and what to delegate .
+t, This structure represents the legal principle of Dillon ’s Rule , named for Iowa Supreme Court justice John F. Dillon .
+t, Dillon argued that state actions trump those of the local government and have supremacy .
+t, “ Why Existing Law Wo n’t Stop Corporations from Harming Your Community , ” August 31 , 2015 .
+t, http://celdf.org/2015/08/why-existing-law-wont-stop-corporations-from-harming-your-community/ ( March 14 , 2016 ) .
+t, In this view , cities and towns exist at the pleasure of the state , which means the state can step in and dissolve them or even take them over .
+t, 6861 . “ Property Taxes : The Bad , the Good , and the Ugly , ” Texas A&M University - Real Estate Center , TR 2037 .
+t, https://assets.recenter.tamu.edu / documents / articles/2037.pdf .
+t, In fact , in response to tax rate increases , many states have placed legal or constitutional limits on regional governments ’ ability to raise property taxes .
+t, The trend began in California with the 1978 passage of Proposition 13 .
+t, This citizen - driven initiative capped the real estate tax at 1 percent of the cash value of property and stopped the practice of reassessing properties for tax purposes whenever a home in the neighborhood was sold .
+t, “ What is Proposition 13 ? ” http://www.californiataxdata.com/pdf/Prop13.pdf ( March 14 , 2016 ) .
+t, After its passage , a number of other states followed suit , making it more difficult for states to reap the rewards of sharp increases in the market value of property .
+t, 6906 . In a council - manager system of government , either the members of the city council are elected by voters along with a mayor who presides over the council , or the voters elect members of the city council and the mayor is chosen from among them .
+t, In either case , the city council will then appoint a city manager to carry out the administrative functions of the municipal government .
+t, 6915 . Those supporting the patronage system held that their positions were well earned ; those who condemned it argued that federal legislation was needed to ensure jobs were awarded on the basis of merit .
+t, Eventually , after President James Garfield had been assassinated by a disappointed office seeker ( [ link ] ) , Congress responded to cries for reform with the Pendleton Act , also called the Civil Service Reform Act of 1883 .
+t, The act established the Civil Service Commission , a centralized agency charged with ensuring that the federal government ’s selection , retention , and promotion practices were based on open , competitive examinations in a merit system .
+t, For more on the Pendleton Act and its effects see Sean M. Theriault .
+t, 6921 . Johnson in the 1960s , that number reached 2.2 million , and the federal budget increased to $ 332 billion .
+t, https://www.opm.gov/policy-data-oversight/data-analysis-documentation/federal-employment-reports/historical-tables/total-government-employment-since-1962 ( May 15 , 2016 ) .
+t, This growth came as a result of what Johnson called his Great Society program , intended to use the power of government to relieve suffering and accomplish social good .
+t, The Economic Opportunity Act of 1964 was designed to help end poverty by creating a Job Corps and a Neighborhood Youth Corps .
+t, Volunteers in Service to America was a type of domestic Peace Corps intended to relieve the effects of poverty .
+t, 6927 . These concerns reached a high point in the late 1970s as the Vietnam War and the Watergate scandal prompted the public to a fever pitch of skepticism about government itself .
+t, Congress and the president responded with the Civil Service Reform Act of 1978 , which abolished the Civil Service Commission .
+t, In its place , the law created two new federal agencies : the Office of Personnel Management ( OPM ) and the Merit Systems Protection Board ( MSPB ) .
+t, 6933 . However , many agency actions are subject to judicial review .
+t, In Schechter Poultry Corp. v. United States ( 1935 ) , the Supreme Court found that agency authority seemed limitless .
+t, A. L. A. Schechter Poultry Corp. v. United States , 295 U.S. 495 ( 1935 ) .
+t, Yet , not all bureaucracies are alike .
+t, 6984 . In top - down implementation , the federal government dictates the specifics of the policy , and each state implements it the same exact way .
+t, In bottom - up implementation , the federal government allows local areas some flexibility to meet their specific challenges and needs .
+t, Daniel Mazmanian and Paul Sabatier .
+t, 1989 .
+t, 7008 . Trade policy is the way the United States interacts with other countries to ease the flow of commerce and goods and services between countries .
+t, A country is said to be engaging in protectionism when it does not permit other countries to sell goods and services within its borders , or when it charges them very high tariffs ( or import taxes ) to do so .
+t, At the other end of the spectrum is a free trade approach , in which a country allows the unfettered flow of goods and services between itself and other countries .
+t, 7035 . President Jimmy Carter meets with Egypt ’s Anwar El Sadat ( left ) and Israel ’s Menachem Begin ( right ) at Camp David in 1978 ( a ) .
+t, President George H. W. Bush ( right ) dines with Mikhail Gorbachev ( left ) at the Malta Summit in 1989 ( b ) .
+t, 7041 . President John F. Kennedy gives a speech about freedom in the shadow of the Berlin Wall ( a ) .
+t, The wall was erected in 1963 by East Germany to keep its citizens from defecting to West Berlin .
+t, 7053 . From the end of the Revolutionary War in the late eighteenth century until the early twentieth century , isolationism — whereby a country stays out of foreign entanglements and keeps to itself — was a popular stance in U.S. foreign policy .
+t, Among the founders , Thomas Jefferson especially was an advocate of isolationism or non - involvement .
+t, 7068 . Many in the United States are worried by the lack of freedom and human rights in China .
+t, During the Tiananmen Square massacre in Beijing on June 4 , 1989 , thousands of pro - democracy protestors were arrested and many were killed as Chinese authorities fired into the crowd and tanks crushed people who attempted to wall them out .
+t, Over one thousand more dissidents were arrested in the following weeks as the Chinese government investigated the planning of the protests in the square .
+t, 5843 . In 2013 , at the age of twenty - five , Ritchie Torres became the youngest member of the New York City Council and the first gay council member to represent the Bronx ( [ link ] ) .
+t, Torres became interested in social justice early in his life .
+t, 5846 . One answer may be that as American politics become more partisan in nature , young people turn away .
+t, Committed partisanship , which is the tendency to identify with and to support ( often blindly ) a particular political party , alienates some Americans who feel that elected representatives should vote in support of the nation ’s best interests instead of voting in the way their party wishes them to .
+t, When elected officials ignore all factors other than their party ’s position on a particular issue , some voters become disheartened while others may become polarized .
+t, 5849 . Indeed , voting itself may reflect merely a latent preference because even people who do not feel strongly about a particular political candidate or issue vote .
+t, On the other hand , intense preferences are based on strong feelings regarding an issue that someone adheres to over time .
+t, People with intense preferences tend to become more engaged in politics ; they are more likely to donate time and money to campaigns or to attend political rallies .
+t, 5852 . The British government had recognized its duty to protect the lives , liberties , and property of English citizens long before the settling of its North American colonies .
+t, In 1215 , King John signed Magna Carta — a promise to his subjects that he and future monarchs would refrain from certain actions that harmed , or had the potential to harm , the people of England .
+t, Prominent in Magna Carta ’s many provisions are protections for life , liberty , and property .
+t, 5978 . The federal government responded by enacting the Force Bill in 1833 , authorizing President Jackson to use military force against states that challenged federal tariff laws .
+t, The prospect of military action coupled with the passage of the Compromise Tariff Act of 1833 ( which lowered tariffs over time ) led South Carolina to back off , ending the nullification crisis .
+t, 5987 . The new federal regulatory regime was dealt a legal blow early in its existence .
+t, In 1895 , in United States v. E. C. Knight , the Supreme Court ruled that the national government lacked the authority to regulate manufacturing .
+t, United States v. E. C. Knight , 156 U.S. 1 ( 1895 ) .
+t, The case came about when the government , using its regulatory power under the Sherman Act , attempted to override American Sugar ’s purchase of four sugar refineries , which would give the company a commanding share of the industry .
+t, Distinguishing between commerce among states and the production of goods , the court argued that the national government ’s regulatory authority applied only to commercial activities .
+t, 6197 . The resulting law ( pushed heavily and then signed by President Lyndon B. Johnson after Kennedy ’s assassination ) was the Civil Rights Act of 1964 , which had wide - ranging effects on U.S. society .
+t, Not only did the act outlaw government discrimination and the unequal application of voting qualifications by race , but it also , for the first time , outlawed segregation and other forms of discrimination by most businesses that were open to the public , including hotels , theaters , and restaurants that were not private clubs .
+t, 6203 . The civil rights movement for African Americans did not end with the passage of the Voting Rights Act in 1965 .
+t, For the last fifty years , the African American community has faced challenges related to both past and current discrimination ; progress on both fronts remains slow , uneven , and often frustrating .
+t, 6215 . The women ’s rights movement attracted many women who , like Stanton and Anthony , were active in either the temperance movement , the abolition movement , or both movements .
+t, Sarah and Angelina Grimke , the daughters of a wealthy slaveholding family in South Carolina , became first abolitionists and then women ’s rights activists .
+t, Angelina Grimke . October 2 , 1837 .
+t, 6218 . However , this was often done because of stereotyped beliefs that associated women with moral reform and concern for children , not as a result of a belief in women ’s equality .
+t, Furthermore , voting in municipal elections was restricted to women who owned property .
+t, Keyssar , 175 , 186 – 187 .
+t, In 1890 , the two suffragist groups united to form the National American Woman Suffrage Association ( NAWSA ) .
+t, To call attention to their cause , members circulated petitions , lobbied politicians , and held parades in which hundreds of women and girls marched through the streets ( [ link ] ) .
+t, 6455 . The newspaper ’s effect was thus diminished through conversation .
+t, This discovery led to the minimal effects theory , which argues the media have little effect on citizens and voters .
+t, Bernard Berelson , Paul Lazarsfeld , and William McPhee .
+t, 1954 .
+t, 6515 . 2007 .
+t, Encyclopedia of American Political Parties and Elections .
+t, New York : Checkmark Books , 151 .
+t, Anti - Federalists preferred a more confederate system built on state equality and autonomy .
+t, Saul Cornell . 2016 .
+t, 6695 . “ From Abe Fortas to Zoe Baird . ” American Political Science Review 92 , No. 4 : 871 – 882 .
+t, Prominent examples of such withdrawals were Senator John Tower for defense secretary ( George H. W. Bush ) and Zoe Baird for attorney general ( Bill Clinton ) : Senator Tower ’s indiscretions involving alcohol and womanizing led to concerns about his fitness to head the military and his rejection by the Senate , Michael Oreskes .
+t, 1989 .
+t, 6716 . Before 1933 , most first ladies served as private political advisers to their husbands .
+t, In the 1910s , Edith Bolling Wilson took a more active but still private role assisting her husband , President Woodrow Wilson , afflicted by a stroke , in the last years of his presidency .
+t, However , as the niece of one president and the wife of another , it was Eleanor Roosevelt in the 1930s and 1940s who opened the door for first ladies to do something more .
+t, 6821 . Donald B. Verrilli Jr. ( b ) was the forty - sixth solicitor general of the United States , starting his term of office in June 2011 when Elena Kagan left the post to join the Supreme Court .
+t, Image B is of Donald B .
+t, 6824 . With briefs filed , the Court hears oral arguments in cases from October through April .
+t, The proceedings are quite ceremonial .
+t, 6827 . Every Court opinion sets precedent for the future .
+t, The Supreme Court ’s decisions are not always unanimous , however ; the published majority opinion , or explanation of the justices ’ decision , is the one with which a majority of the nine justices agree .
+t, It can represent a vote as narrow as five in favor to four against .
+t, 6851 . Despite the Constitution ’s broad grants of state authority , one of the central goals of the Anti - Federalists , a group opposed to several components of the Constitution , was to preserve state government authority , protect the small states , and keep government power concentrated in the hands of the people .
+t, For this reason , the Tenth Amendment was included in the Bill of Rights to create a class of powers , known as reserved powers , exclusive to state governments .
+t, The amendment specifically reads , “ The powers not delegated to the United States by the Constitution , nor prohibited by it to the States , are reserved to the States respectively , or to the people . ”
+t, In essence , if the Constitution does not decree that an activity should be performed by the national government and does not restrict the state government from engaging in it , then the state is seen as having the power to perform the function .
+t, 6854 . Just three decades later , during the 1964 presidential election campaign , incumbent President Lyndon B. Johnson declared a “ War on Poverty , ” instituting a package of Great Society programs designed to improve circumstances for lower - income Americans across the nation .
+t, The new programs included Medicare and Medicaid , which are health insurance programs for seniors and low - income citizens respectively , and the food stamp program , which provides food assistance to low - income families .
+t, 7031 . Colin Powell ( b ) , nominated by George W. Bush , was also unanimously confirmed .
+t, Condoleezza Rice ( c ) had a more difficult road , earning thirteen votes against , the most for any secretary of state nominee since Henry Clay in 1825 .
+t, According to Senator Barbara Boxer ( D - CA ) , senators wanted “ to hold Dr. Rice and the Bush administration accountable for their failures in Iraq and in the war on terrorism . ”
+t, 7049 . The U.S. trade representative develops and directs the country ’s international trade agenda .
+t, Finally , within the Executive Office of the President , another important foreign policy official is the director of the president ’s Office of Management and Budget ( OMB ) .
+t, The OMB director develops the president ’s yearly budget proposal , including funding for the foreign policy agencies and foreign aid .
+t, 5812 . For example , food , clothing , and housing are provided in ample supply by private businesses that earn a profit in return .
+t, These goods and services are known as private goods .
+t, Paul A. Samuelson . 1954 .
+t, 6136 . Historically , many states did not provide attorneys to those accused of most crimes who could not afford one themselves ; even when an attorney was provided , his or her assistance was often inadequate at best .
+t, This situation changed as a result of the Supreme Court ’s decision in Gideon v. Wainwright ( 1963 ) .
+t, Gideon v. Wainwright , 372 U.S. 335 ( 1963 ) .
+t, Clarence Gideon , a poor drifter , was accused of breaking into and stealing money and other items from a pool hall in Panama City , Florida .
+t, Denied a lawyer , Gideon was tried and convicted and sentenced to a five - year prison term .
+t, 6208 . Although single women were allowed to own property , married women were not .
+t, When women married , their separate legal identities were erased under the legal principle of coverture .
+t, Not only did women adopt their husbands ’ names , but all personal property they owned legally became their husbands ’ property .
+t, 6226 . Women are also represented in all branches of the military and can serve in combat .
+t, As a result of the 1973 Supreme Court decision in Roe v. Wade , women now have legal access to abortion .
+t, Roe v. Wade , 410 U.S. 113 ( 1973 ) .
+t, 6289 . It is controversial , with opponents arguing it causes water pollution , sound pollution , and earthquakes .
+t, During the campaign , a number of local voters received a call that polled them on how they planned to vote on the proposed fracking ban .
+t, Kate Sheppard , “ Top Texas Regulator : Could Russia be Behind City ’s Proposed Fracking Ban ? ” Huffington Post , 16 July 2014 .
+t, http://www.huffingtonpost.com/2014/07/16/fracking-ban-denton-russia_n_5592661.html ( February 18 , 2016 ) .
+t, If the respondent was unsure about or planned to vote for the ban , the questions shifted to provide negative information about the organizations proposing the ban .
+t, One question asked , “ If you knew the following , would it change your vote .
+t, 6313 . Polling is also at the heart of horserace coverage , in which , just like an announcer at the racetrack , the media calls out every candidate ’s move throughout the presidential campaign .
+t, Horserace coverage can be neutral , positive , or negative , depending upon what polls or facts are covered ( [ link ] ) .
+t, 6430 . First , the media do not have the right to commit slander , speak false information with an intent to harm a person or entity , or libel , print false information with an intent to harm a person or entity .
+t, These acts constitute defamation of character that can cause a loss of reputation and income .
+t, 6454 . These ideas become part of the citizens ’ frame of reference and affect their decisions .
+t, Lippmann ’s statements led to the hypodermic theory , which argues that information is “ shot ” into the receiver ’s mind and readily accepted .
+t, Walter Lippmann . 1922 .
+t, 6514 . Thus , from the very beginning of its history , the United States has had a system of government dominated by two different philosophies .
+t, Federalists , who were largely responsible for drafting and ratifying the U.S. Constitution , generally favored the idea of a stronger , more centralized republic that had greater control over regulating the economy . Larry Sabato and Howard R. Ernst .
+t, 2007 .
+t, 6796 . Democratic - appointed judges sometimes side with conservatives , just as Republican - appointed judges sometimes side with liberals .
+t, Republican Dwight D. Eisenhower reportedly called his nomination of Earl Warren as chief justice — in an era that saw substantial broadening of civil and criminal rights — “ the biggest damn fool mistake ” he had ever made .
+t, Sandra Day O’Connor , nominated by Republican president Ronald Reagan , often became a champion for women ’s rights .
+t, 6880 . First , as leaders in their political party , governors often work to raise money for other political figures who are up for reelection .
+t, A governor who has high public approval ratings may also make campaign appearances on behalf of candidates in tough reelection fights across the state .
+t, Governors can draw in supporters , contributions , and media attention that can be beneficial to other political aspirants , and the party will expect them to do their part to ensure the greatest possible number of victories for their candidates .
+t, 6895 . As a whole , state legislatures have become progressively more professional .
+t, Political scientist Peverill Squire , at several points throughout his career , has measured the degree of state legislative professionalism with a ranking across the fifty states .
+t, Peverill Squire . 2007 .
+t, 6898 . If the member succeeds , the clock will reset and the legislator may once again serve up to the limit set by the state .
+t, In states with a lifetime ban , such as Oklahoma , members can serve only one time for the number of years allotted , and they are not permitted to run for office again ( [ link ] ) .
+t, See note 65 .
+t, 6913 . Under President Andrew Jackson , many thousands of party loyalists filled the ranks of the bureaucratic offices around the country .
+t, This was the beginning of the spoils system , in which political appointments were transformed into political patronage doled out by the president on the basis of party loyalty .
+t, Daniel Walker Howe . 2007 .
+t, 7057 . Helms was famous for opposing nearly all treaties brought to the Senate during his tenure .
+t, Congressman Ron Paul ( R - TX ) and his son Senator Rand Paul ( R - KY ) were both isolationist candidates for the presidency ( in 2008 and 2016 , respectively ) ; both thought the United States should retreat from foreign entanglements , spend far less on military and foreign policy , and focus more on domestic issues .
