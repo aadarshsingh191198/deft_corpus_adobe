@@ -22,7 +22,8 @@ def generate_csv(dir, file):
 if __name__ == '__main__':
     # Test data for subtask 1
     test_path = os.path.join('data','test_files')
-    generate_csv(os.path.join(test_path, 'subtask_1'),'task_1_test.csv')
+    generate_csv(os.path.join(test_path, 'subtask_1'),'task1_test.csv')
+
 
     # Generate train and dev data for subtasks 
 
