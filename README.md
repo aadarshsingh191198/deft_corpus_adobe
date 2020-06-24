@@ -13,8 +13,7 @@ git remote add public https://github.com/adobe-research/deft_corpus
 git pull public master
 git push origin master
 ```
-
-Awesome, your private repo now has the latest code from the public repo plus your changes.
+To know more about forking a public repository privately, check [this](https://medium.com/@bilalbayasut/github-how-to-make-a-fork-of-public-repository-private-6ee8cacaf9d3) out.
 
 # Welcome to the DEFT corpus!
 
